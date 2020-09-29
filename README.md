@@ -1,3 +1,3 @@
 ### Covid-19 Local Restrictions in the UK
 
-A public repo for all UK local authorities and a yes/no flag as to whether they or parts of them are in local restriction areas for Covid-19
+A repo holding screenshots from a Covid-19 local restrictions dashboard I made in less than a day at (redacted company) , as well as the SQL queries used and the CSV source for the local authority local restrictions flags.
