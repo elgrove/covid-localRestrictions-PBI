@@ -4,4 +4,4 @@ A repo holding screenshots from a Covid-19 local restrictions dashboard I made i
 
 Here's a capture of the delivery proposition page:
 
-![alt text]('Delivery vs Click and Collect.png')
+![alt text](Delivery vs Click and Collect.png)
