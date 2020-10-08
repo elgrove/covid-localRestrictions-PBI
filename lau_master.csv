@@ -1,13 +1,13 @@
 nation,county,lau_name,pop,status
-Scotland,Scotland,Aberdeen City,228670,No
-Scotland,Scotland,Aberdeenshire,261210,No
+Scotland,Scotland,Aberdeen City,228670,Yes
+Scotland,Scotland,Aberdeenshire,261210,Yes
 England,West Sussex,Adur,64301,No
 England,Cumbria,Allerdale,97761,No
 England,Derbyshire,Amber Valley,128147,No
-Scotland,Scotland,Angus,116200,No
+Scotland,Scotland,Angus,116200,Yes
 Northern Ireland,Northern Ireland,Antrim and Newtownabbey,143504,Yes
 Northern Ireland,Northern Ireland,Ards and North Down,161725,Yes
-Scotland,Scotland,Argyll and Bute,85870,No
+Scotland,Scotland,Argyll and Bute,85870,Yes
 Northern Ireland,Northern Ireland,"Armagh City, Banbridge and Craigavon",216205,Yes
 England,West Sussex,Arun,160758,No
 England,Nottinghamshire,Ashfield,127918,No
@@ -58,7 +58,7 @@ England,Staffordshire,Cannock Chase,100762,No
 England,Kent,Canterbury,165394,No
 Wales,Wales,Cardiff,366903,Yes
 England,Cumbria,Carlisle,108678,No
-Wales,Wales,Carmarthenshire,188771,No
+Wales,Wales,Carmarthenshire,188771,Yes
 England,Essex,Castle Point,90376,No
 Northern Ireland,Northern Ireland,Causeway Coast and Glens,144838,No
 England,England,Central Bedfordshire,288648,No
@@ -72,11 +72,11 @@ England,England,Cheshire West and Chester,343071,No
 England,Derbyshire,Chesterfield,104900,No
 England,West Sussex,Chichester,121129,No
 England,Lancashire,Chorley,118216,Yes
-Scotland,Scotland,City of Edinburgh,524930,No
+Scotland,Scotland,City of Edinburgh,524930,Yes
 England,Inner London,City of London,9721,No
-Scotland,Scotland,Clackmannanshire,51540,No
+Scotland,Scotland,Clackmannanshire,51540,Yes
 England,Essex,Colchester,194706,No
-Wales,Wales,Conwy,117203,No
+Wales,Wales,Conwy,117203,Yes
 England,Cumbria,Copeland,68183,No
 England,Northamptonshire,Corby,72218,No
 England,England,Cornwall,569578,No
@@ -90,7 +90,7 @@ England,Hertfordshire,Dacorum,154763,No
 England,England,Darlington,106803,No
 England,Kent,Dartford,112606,No
 England,Northamptonshire,Daventry,85950,No
-Wales,Wales,Denbighshire,95696,No
+Wales,Wales,Denbighshire,95696,Yes
 England,England,Derby,257302,No
 England,Derbyshire,Derbyshire Dales,72325,No
 Northern Ireland,Northern Ireland,Derry City and Strabane,151284,Yes
@@ -98,17 +98,17 @@ England,South Yorkshire,Doncaster,311890,No
 England,England,Dorset,378508,No
 England,Kent,Dover,118131,No
 England,West Midlands,Dudley,321596,No
-Scotland,Scotland,Dumfries and Galloway,148860,No
-Scotland,Scotland,Dundee City,149320,No
+Scotland,Scotland,Dumfries and Galloway,148860,Yes
+Scotland,Scotland,Dundee City,149320,Yes
 England,Outer London,Ealing,341806,No
-Scotland,Scotland,East Ayrshire,122010,No
+Scotland,Scotland,East Ayrshire,122010,Yes
 England,Cambridgeshire,East Cambridgeshire,89840,No
 England,Devon,East Devon,146284,No
 Scotland,Scotland,East Dunbartonshire,108640,Yes
 England,Hampshire,East Hampshire,122308,No
 England,Hertfordshire,East Hertfordshire,149748,No
 England,Lincolnshire,East Lindsey,141727,No
-Scotland,Scotland,East Lothian,107090,No
+Scotland,Scotland,East Lothian,107090,Yes
 England,Northamptonshire,East Northamptonshire,94527,No
 Scotland,Scotland,East Renfrewshire,95530,Yes
 England,England,East Riding of Yorkshire,341173,No
@@ -123,12 +123,12 @@ England,Essex,Epping Forest,131689,No
 England,Surrey,Epsom and Ewell,80627,No
 England,Derbyshire,Erewash,115371,No
 England,Devon,Exeter,131405,No
-Scotland,Scotland,Falkirk,160890,No
+Scotland,Scotland,Falkirk,160890,Yes
 England,Hampshire,Fareham,116233,No
 England,Cambridgeshire,Fenland,101850,No
 Northern Ireland,Northern Ireland,Fermanagh and Omagh,117397,Yes
-Scotland,Scotland,Fife,373550,No
-Wales,Wales,Flintshire,156100,No
+Scotland,Scotland,Fife,373550,Yes
+Wales,Wales,Flintshire,156100,Yes
 England,Kent,Folkestone and Hythe,112996,No
 England,Gloucestershire,Forest of Dean,86791,No
 England,Lancashire,Fylde,80780,Yes
@@ -159,14 +159,14 @@ England,Outer London,Havering,259552,No
 England,England,"Herefordshire, County of",192801,No
 England,Hertfordshire,Hertsmere,104919,No
 England,Derbyshire,High Peak,92666,No
-Scotland,Scotland,Highland,235830,No
+Scotland,Scotland,Highland,235830,Yes
 England,Outer London,Hillingdon,306870,No
 England,Leicestershire,Hinckley and Bosworth,113136,No
 England,West Sussex,Horsham,143791,No
 England,Outer London,Hounslow,271523,No
 England,Cambridgeshire,Huntingdonshire,177963,No
 England,Lancashire,Hyndburn,81043,Yes
-Scotland,Scotland,Inverclyde,77800,No
+Scotland,Scotland,Inverclyde,77800,Yes
 England,Suffolk,Ipswich,136913,No
 Wales,Wales,Isle of Anglesey,70043,No
 England,England,Isle of Wight,141771,No
@@ -206,13 +206,13 @@ England,Suffolk,Mid Suffolk,103895,No
 England,West Sussex,Mid Sussex,151022,No
 Northern Ireland,Northern Ireland,Mid Ulster,148528,No
 England,England,Middlesbrough,140980,No
-Scotland,Scotland,Midlothian,92460,No
+Scotland,Scotland,Midlothian,92460,Yes
 England,England,Milton Keynes,269457,No
 England,Surrey,Mole Valley,87245,No
 Wales,Wales,Monmouthshire,94590,No
-Scotland,Scotland,Moray,95820,No
-Scotland,Scotland,Na h-Eileanan Siar,26720,No
-Wales,Wales,Neath Port Talbot,143315,No
+Scotland,Scotland,Moray,95820,Yes
+Scotland,Scotland,Na h-Eileanan Siar,26720,Yes
+Wales,Wales,Neath Port Talbot,143315,Yes
 England,Hampshire,New Forest,180086,No
 England,Nottinghamshire,Newark and Sherwood,122421,No
 England,Tyne and Wear,Newcastle upon Tyne,302820,Yes
@@ -220,7 +220,7 @@ England,Staffordshire,Newcastle-under-Lyme,129441,No
 England,Inner London,Newham,353134,No
 Wales,Wales,Newport,154676,Yes
 Northern Ireland,Northern Ireland,"Newry, Mourne and Down",181368,No
-Scotland,Scotland,North Ayrshire,134740,No
+Scotland,Scotland,North Ayrshire,134740,Yes
 England,Devon,North Devon,97145,No
 England,Derbyshire,North East Derbyshire,101462,No
 England,England,North East Lincolnshire,159563,No
@@ -240,11 +240,11 @@ England,England,Nottingham,332900,No
 England,Warwickshire,Nuneaton and Bedworth,129883,No
 England,Leicestershire,Oadby and Wigston,57015,Yes
 England,Greater Manchester,Oldham,237110,Yes
-Scotland,Scotland,Orkney Islands,22270,No
+Scotland,Scotland,Orkney Islands,22270,Yes
 England,Oxfordshire,Oxford,152457,No
 Wales,Wales,Pembrokeshire,125818,No
 England,Lancashire,Pendle,92112,Yes
-Scotland,Scotland,Perth and Kinross,151950,No
+Scotland,Scotland,Perth and Kinross,151950,Yes
 England,England,Peterborough,202259,No
 England,England,Plymouth,262100,No
 England,England,Portsmouth,214905,No
@@ -274,18 +274,18 @@ England,North Yorkshire,Ryedale,55380,No
 England,Greater Manchester,Salford,258834,Yes
 England,West Midlands,Sandwell,328450,Yes
 England,North Yorkshire,Scarborough,108757,No
-Scotland,Scotland,Scottish Borders,115510,No
+Scotland,Scotland,Scottish Borders,115510,Yes
 England,Somerset,Sedgemoor,123178,No
 England,Merseyside,Sefton,276410,Yes
 England,North Yorkshire,Selby,90620,No
 England,Kent,Sevenoaks,120750,No
 England,South Yorkshire,Sheffield,584853,No
-Scotland,Scotland,Shetland Islands,22920,No
+Scotland,Scotland,Shetland Islands,22920,Yes
 England,England,Shropshire,323136,No
 England,England,Slough,149539,No
 England,West Midlands,Solihull,216374,Yes
 England,Somerset,Somerset West and Taunton,155115,No
-Scotland,Scotland,South Ayrshire,112610,No
+Scotland,Scotland,South Ayrshire,112610,Yes
 England,Cambridgeshire,South Cambridgeshire,159086,No
 England,Derbyshire,South Derbyshire,107261,No
 England,England,South Gloucestershire,285093,No
@@ -310,7 +310,7 @@ England,Merseyside,St. Helens,180585,Yes
 England,Staffordshire,Stafford,137280,No
 England,Staffordshire,Staffordshire Moorlands,98435,No
 England,Hertfordshire,Stevenage,87845,No
-Scotland,Scotland,Stirling,94210,No
+Scotland,Scotland,Stirling,94210,Yes
 England,Greater Manchester,Stockport,293423,Yes
 England,England,Stockton-on-Tees,197348,No
 England,England,Stoke-on-Trent,256375,No
@@ -335,13 +335,13 @@ England,Hertfordshire,Three Rivers,93323,No
 England,England,Thurrock,174341,No
 England,Kent,Tonbridge and Malling,132153,No
 England,England,Torbay,136264,No
-Wales,Wales,Torfaen,93961,No
+Wales,Wales,Torfaen,93961,Yes
 England,Devon,Torridge,68267,No
 England,Inner London,Tower Hamlets,324745,No
 England,Greater Manchester,Trafford,237354,Yes
 England,Kent,Tunbridge Wells,118724,No
 England,Essex,Uttlesford,91284,No
-Wales,Wales,Vale of Glamorgan,133587,No
+Wales,Wales,Vale of Glamorgan,133587,Yes
 England,Oxfordshire,Vale of White Horse,136007,No
 England,West Yorkshire,Wakefield,348312,No
 England,West Midlands,Walsall,285478,No
@@ -359,7 +359,7 @@ England,Devon,West Devon,55796,No
 Scotland,Scotland,West Dunbartonshire,88930,Yes
 England,Lancashire,West Lancashire,114306,Yes
 England,Lincolnshire,West Lindsey,95667,No
-Scotland,Scotland,West Lothian,183100,No
+Scotland,Scotland,West Lothian,183100,Yes
 England,Oxfordshire,West Oxfordshire,110643,No
 England,Suffolk,West Suffolk,179045,No
 England,Inner London,Westminster,261317,No
@@ -373,7 +373,7 @@ England,England,Wokingham,171119,No
 England,West Midlands,Wolverhampton,263357,Yes
 England,Worcestershire,Worcester,101222,No
 England,West Sussex,Worthing,110570,No
-Wales,Wales,Wrexham,135957,No
+Wales,Wales,Wrexham,135957,Yes
 England,Worcestershire,Wychavon,129433,No
 England,Lancashire,Wyre,112091,Yes
 England,Worcestershire,Wyre Forest,101291,No
