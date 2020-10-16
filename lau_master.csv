@@ -178,7 +178,7 @@ England,Norfolk,King's Lynn and West Norfolk,151383,Tier 1
 England,England,"Kingston upon Hull, City of",259778,Tier 1
 England,Outer London,Kingston upon Thames,177507,Tier 2
 England,West Yorkshire,Kirklees,439787,Tier 2
-England,Merseyside,Knowsley,150862,Tier 1
+England,Merseyside,Knowsley,150862,Tier 3
 England,Inner London,Lambeth,326034,Tier 2
 England,Lancashire,Lancaster,146038,Tier 3
 England,West Yorkshire,Leeds,793139,Tier 2
@@ -276,7 +276,7 @@ England,West Midlands,Sandwell,328450,Tier 2
 England,North Yorkshire,Scarborough,108757,Tier 1
 Scotland,Scotland,Scottish Borders,115510,Tier 2
 England,Somerset,Sedgemoor,123178,Tier 1
-England,Merseyside,Sefton,276410,Tier 1
+England,Merseyside,Sefton,276410,Tier 3
 England,North Yorkshire,Selby,90620,Tier 1
 England,Kent,Sevenoaks,120750,Tier 1
 England,South Yorkshire,Sheffield,584853,Tier 2
@@ -306,7 +306,7 @@ England,England,Southend-on-Sea,183125,Tier 1
 England,Inner London,Southwark,318830,Tier 2
 England,Surrey,Spelthorne,99844,Tier 1
 England,Hertfordshire,St Albans,148452,Tier 1
-England,Merseyside,St. Helens,180585,Tier 1
+England,Merseyside,St. Helens,180585,Tier 3
 England,Staffordshire,Stafford,137280,Tier 1
 England,Staffordshire,Staffordshire Moorlands,98435,Tier 1
 England,Hertfordshire,Stevenage,87845,Tier 1
@@ -367,7 +367,7 @@ England,Greater Manchester,Wigan,328662,Tier 2
 England,England,Wiltshire,500024,Tier 1
 England,Hampshire,Winchester,124859,Tier 1
 England,England,Windsor and Maidenhead,151422,Tier 1
-England,Merseyside,Wirral,324011,Tier 1
+England,Merseyside,Wirral,324011,Tier 3
 England,Surrey,Woking,100793,Tier 1
 England,England,Wokingham,171119,Tier 1
 England,West Midlands,Wolverhampton,263357,Tier 2
