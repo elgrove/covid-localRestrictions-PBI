@@ -1,380 +1,380 @@
 nation,county,lau_name,pop,status
-Scotland,Scotland,Aberdeen City,228670,Yes
-Scotland,Scotland,Aberdeenshire,261210,Yes
-England,West Sussex,Adur,64301,No
-England,Cumbria,Allerdale,97761,No
-England,Derbyshire,Amber Valley,128147,No
-Scotland,Scotland,Angus,116200,Yes
-Northern Ireland,Northern Ireland,Antrim and Newtownabbey,143504,Yes
-Northern Ireland,Northern Ireland,Ards and North Down,161725,Yes
-Scotland,Scotland,Argyll and Bute,85870,Yes
-Northern Ireland,Northern Ireland,"Armagh City, Banbridge and Craigavon",216205,Yes
-England,West Sussex,Arun,160758,No
-England,Nottinghamshire,Ashfield,127918,No
-England,Kent,Ashford,130032,No
-England,Suffolk,Babergh,92036,No
-England,Outer London,Barking and Dagenham,212906,No
-England,Outer London,Barnet,395869,No
-England,South Yorkshire,Barnsley,246866,No
-England,Cumbria,Barrow-in-Furness,67049,No
-England,Essex,Basildon,187199,No
-England,Hampshire,Basingstoke and Deane,176582,No
-England,Nottinghamshire,Bassetlaw,117459,No
-England,England,Bath and North East Somerset,193282,No
-England,England,Bedford,173292,No
-Northern Ireland,Northern Ireland,Belfast,343542,Yes
-England,Outer London,Bexley,248287,No
-England,West Midlands,Birmingham,1141816,Yes
-England,Leicestershire,Blaby,101526,No
-England,England,Blackburn with Darwen,149696,Yes
-England,England,Blackpool,139446,Yes
-Wales,Wales,Blaenau Gwent,69862,Yes
-England,Derbyshire,Bolsover,80562,No
-England,Greater Manchester,Bolton,287550,Yes
-England,Lincolnshire,Boston,70173,No
-England,England,"Bournemouth, Christchurch and Poole",395331,No
-England,England,Bracknell Forest,122549,No
-England,West Yorkshire,Bradford,539776,Yes
-England,Essex,Braintree,152604,No
-England,Norfolk,Breckland,139968,No
-England,Outer London,Brent,329771,No
-England,Essex,Brentwood,77021,No
-Wales,Wales,Bridgend,147049,Yes
-England,England,Brighton and Hove,290885,No
-England,Somerset,Bristol,463377,No
-England,Norfolk,Broadland,130783,No
-England,Outer London,Bromley,332336,No
-England,Worcestershire,Bromsgrove,99881,No
-England,Hertfordshire,Broxbourne,97279,No
-England,Nottinghamshire,Broxtowe,114033,No
-England,England,Buckinghamshire,543973,No
-England,Lancashire,Burnley,88920,Yes
-England,Greater Manchester,Bury,190990,Yes
-Wales,Wales,Caerphilly,181075,Yes
-England,West Yorkshire,Calderdale,211455,Yes
-England,Cambridgeshire,Cambridge,124798,No
-England,Inner London,Camden,270029,No
-England,Staffordshire,Cannock Chase,100762,No
-England,Kent,Canterbury,165394,No
-Wales,Wales,Cardiff,366903,Yes
-England,Cumbria,Carlisle,108678,No
-Wales,Wales,Carmarthenshire,188771,Yes
-England,Essex,Castle Point,90376,No
-Northern Ireland,Northern Ireland,Causeway Coast and Glens,144838,No
-England,England,Central Bedfordshire,288648,No
-Wales,Wales,Ceredigion,72695,No
-England,Leicestershire,Charnwood,185851,No
-England,Essex,Chelmsford,178388,No
-England,Gloucestershire,Cheltenham,116306,No
-England,Oxfordshire,Cherwell,150503,No
-England,England,Cheshire East,384152,No
-England,England,Cheshire West and Chester,343071,No
-England,Derbyshire,Chesterfield,104900,No
-England,West Sussex,Chichester,121129,No
-England,Lancashire,Chorley,118216,Yes
-Scotland,Scotland,City of Edinburgh,524930,Yes
-England,Inner London,City of London,9721,No
-Scotland,Scotland,Clackmannanshire,51540,Yes
-England,Essex,Colchester,194706,No
-Wales,Wales,Conwy,117203,Yes
-England,Cumbria,Copeland,68183,No
-England,Northamptonshire,Corby,72218,No
-England,England,Cornwall,569578,No
-England,Gloucestershire,Cotswold,89862,No
-England,England,County Durham,530094,Yes
-England,West Midlands,Coventry,371521,No
-England,North Yorkshire,Craven,57142,No
-England,West Sussex,Crawley,112409,No
-England,Outer London,Croydon,386710,No
-England,Hertfordshire,Dacorum,154763,No
-England,England,Darlington,106803,No
-England,Kent,Dartford,112606,No
-England,Northamptonshire,Daventry,85950,No
-Wales,Wales,Denbighshire,95696,Yes
-England,England,Derby,257302,No
-England,Derbyshire,Derbyshire Dales,72325,No
-Northern Ireland,Northern Ireland,Derry City and Strabane,151284,Yes
-England,South Yorkshire,Doncaster,311890,No
-England,England,Dorset,378508,No
-England,Kent,Dover,118131,No
-England,West Midlands,Dudley,321596,No
-Scotland,Scotland,Dumfries and Galloway,148860,Yes
-Scotland,Scotland,Dundee City,149320,Yes
-England,Outer London,Ealing,341806,No
-Scotland,Scotland,East Ayrshire,122010,Yes
-England,Cambridgeshire,East Cambridgeshire,89840,No
-England,Devon,East Devon,146284,No
-Scotland,Scotland,East Dunbartonshire,108640,Yes
-England,Hampshire,East Hampshire,122308,No
-England,Hertfordshire,East Hertfordshire,149748,No
-England,Lincolnshire,East Lindsey,141727,No
-Scotland,Scotland,East Lothian,107090,Yes
-England,Northamptonshire,East Northamptonshire,94527,No
-Scotland,Scotland,East Renfrewshire,95530,Yes
-England,England,East Riding of Yorkshire,341173,No
-England,Staffordshire,East Staffordshire,119754,No
-England,Suffolk,East Suffolk,249461,No
-England,East Sussex,Eastbourne,103745,No
-England,Hampshire,Eastleigh,133584,No
-England,Cumbria,Eden,53253,No
-England,Surrey,Elmbridge,136795,No
-England,Outer London,Enfield,333794,No
-England,Essex,Epping Forest,131689,No
-England,Surrey,Epsom and Ewell,80627,No
-England,Derbyshire,Erewash,115371,No
-England,Devon,Exeter,131405,No
-Scotland,Scotland,Falkirk,160890,Yes
-England,Hampshire,Fareham,116233,No
-England,Cambridgeshire,Fenland,101850,No
-Northern Ireland,Northern Ireland,Fermanagh and Omagh,117397,Yes
-Scotland,Scotland,Fife,373550,Yes
-Wales,Wales,Flintshire,156100,Yes
-England,Kent,Folkestone and Hythe,112996,No
-England,Gloucestershire,Forest of Dean,86791,No
-England,Lancashire,Fylde,80780,Yes
-England,Tyne and Wear,Gateshead,202055,Yes
-England,Nottinghamshire,Gedling,117896,No
-Scotland,Scotland,Glasgow City,633120,Yes
-England,Gloucestershire,Gloucester,129128,No
-England,Hampshire,Gosport,84838,No
-England,Kent,Gravesham,106939,No
-England,Norfolk,Great Yarmouth,99336,No
-England,Outer London,Greenwich,287942,No
-England,Surrey,Guildford,148998,No
-Wales,Wales,Gwynedd,124560,No
-England,Inner London,Hackney,281120,No
-England,England,Halton,129410,Yes
-England,North Yorkshire,Hambleton,91594,No
-England,Inner London,Hammersmith and Fulham,185143,No
-England,Leicestershire,Harborough,93807,No
-England,Inner London,Haringey,268647,No
-England,Essex,Harlow,87067,No
-England,North Yorkshire,Harrogate,160831,No
-England,Outer London,Harrow,251160,No
-England,Hampshire,Hart,97073,No
-England,England,Hartlepool,93663,No
-England,East Sussex,Hastings,92661,No
-England,Hampshire,Havant,126220,No
-England,Outer London,Havering,259552,No
-England,England,"Herefordshire, County of",192801,No
-England,Hertfordshire,Hertsmere,104919,No
-England,Derbyshire,High Peak,92666,No
-Scotland,Scotland,Highland,235830,Yes
-England,Outer London,Hillingdon,306870,No
-England,Leicestershire,Hinckley and Bosworth,113136,No
-England,West Sussex,Horsham,143791,No
-England,Outer London,Hounslow,271523,No
-England,Cambridgeshire,Huntingdonshire,177963,No
-England,Lancashire,Hyndburn,81043,Yes
-Scotland,Scotland,Inverclyde,77800,Yes
-England,Suffolk,Ipswich,136913,No
-Wales,Wales,Isle of Anglesey,70043,No
-England,England,Isle of Wight,141771,No
-England,England,Isles of Scilly,2224,No
-England,Inner London,Islington,242467,No
-England,Inner London,Kensington and Chelsea,156129,No
-England,Northamptonshire,Kettering,101776,No
-England,Norfolk,King's Lynn and West Norfolk,151383,No
-England,England,"Kingston upon Hull, City of",259778,No
-England,Outer London,Kingston upon Thames,177507,No
-England,West Yorkshire,Kirklees,439787,Yes
-England,Merseyside,Knowsley,150862,Yes
-England,Inner London,Lambeth,326034,No
-England,Lancashire,Lancaster,146038,Yes
-England,West Yorkshire,Leeds,793139,Yes
-England,England,Leicester,354224,Yes
-England,East Sussex,Lewes,103268,No
-England,Inner London,Lewisham,305842,No
-England,Staffordshire,Lichfield,104756,No
-England,Lincolnshire,Lincoln,99299,No
-Northern Ireland,Northern Ireland,Lisburn and Castlereagh,146002,Yes
-England,Merseyside,Liverpool,498042,Yes
-England,England,Luton,213052,No
-England,Kent,Maidstone,171826,No
-England,Essex,Maldon,64926,No
-England,Worcestershire,Malvern Hills,78698,No
-England,Greater Manchester,Manchester,552858,Yes
-England,Nottinghamshire,Mansfield,109313,No
-England,England,Medway,278556,No
-England,Leicestershire,Melton,51209,No
-England,Somerset,Mendip,115587,No
-Wales,Wales,Merthyr Tydfil,60326,Yes
-England,Outer London,Merton,206548,No
-Northern Ireland,Northern Ireland,Mid and East Antrim,139274,Yes
-England,Devon,Mid Devon,82311,No
-England,Suffolk,Mid Suffolk,103895,No
-England,West Sussex,Mid Sussex,151022,No
-Northern Ireland,Northern Ireland,Mid Ulster,148528,No
-England,England,Middlesbrough,140980,No
-Scotland,Scotland,Midlothian,92460,Yes
-England,England,Milton Keynes,269457,No
-England,Surrey,Mole Valley,87245,No
-Wales,Wales,Monmouthshire,94590,No
-Scotland,Scotland,Moray,95820,Yes
-Scotland,Scotland,Na h-Eileanan Siar,26720,Yes
-Wales,Wales,Neath Port Talbot,143315,Yes
-England,Hampshire,New Forest,180086,No
-England,Nottinghamshire,Newark and Sherwood,122421,No
-England,Tyne and Wear,Newcastle upon Tyne,302820,Yes
-England,Staffordshire,Newcastle-under-Lyme,129441,No
-England,Inner London,Newham,353134,No
-Wales,Wales,Newport,154676,Yes
-Northern Ireland,Northern Ireland,"Newry, Mourne and Down",181368,No
-Scotland,Scotland,North Ayrshire,134740,Yes
-England,Devon,North Devon,97145,No
-England,Derbyshire,North East Derbyshire,101462,No
-England,England,North East Lincolnshire,159563,No
-England,Hertfordshire,North Hertfordshire,133570,No
-England,Lincolnshire,North Kesteven,116915,No
-Scotland,Scotland,North Lanarkshire,341370,Yes
-England,England,North Lincolnshire,172292,No
-England,Norfolk,North Norfolk,104837,No
-England,England,North Somerset,215052,No
-England,Tyne and Wear,North Tyneside,207913,Yes
-England,Warwickshire,North Warwickshire,65264,No
-England,Leicestershire,North West Leicestershire,103611,No
-England,Northamptonshire,Northampton,224610,No
-England,England,Northumberland,322434,Yes
-England,Norfolk,Norwich,140573,No
-England,England,Nottingham,332900,No
-England,Warwickshire,Nuneaton and Bedworth,129883,No
-England,Leicestershire,Oadby and Wigston,57015,Yes
-England,Greater Manchester,Oldham,237110,Yes
-Scotland,Scotland,Orkney Islands,22270,Yes
-England,Oxfordshire,Oxford,152457,No
-Wales,Wales,Pembrokeshire,125818,No
-England,Lancashire,Pendle,92112,Yes
-Scotland,Scotland,Perth and Kinross,151950,Yes
-England,England,Peterborough,202259,No
-England,England,Plymouth,262100,No
-England,England,Portsmouth,214905,No
-Wales,Wales,Powys,132435,No
-England,Lancashire,Preston,143135,Yes
-England,England,Reading,161780,No
-England,Outer London,Redbridge,305222,No
-England,England,Redcar and Cleveland,137150,No
-England,Worcestershire,Redditch,85261,No
-England,Surrey,Reigate and Banstead,148748,No
-Scotland,Scotland,Renfrewshire,179100,Yes
-Wales,Wales,Rhondda Cynon Taf,241264,Yes
-England,Lancashire,Ribble Valley,60888,Yes
-England,Outer London,Richmond upon Thames,198019,No
-England,North Yorkshire,Richmondshire,53730,No
-England,Greater Manchester,Rochdale,222412,Yes
-England,Essex,Rochford,87368,No
-England,Lancashire,Rossendale,71482,Yes
-England,East Sussex,Rother,96080,No
-England,South Yorkshire,Rotherham,265411,No
-England,Warwickshire,Rugby,108935,No
-England,Surrey,Runnymede,89424,No
-England,Nottinghamshire,Rushcliffe,119184,No
-England,Hampshire,Rushmoor,94599,No
-England,England,Rutland,39927,No
-England,North Yorkshire,Ryedale,55380,No
-England,Greater Manchester,Salford,258834,Yes
-England,West Midlands,Sandwell,328450,Yes
-England,North Yorkshire,Scarborough,108757,No
-Scotland,Scotland,Scottish Borders,115510,Yes
-England,Somerset,Sedgemoor,123178,No
-England,Merseyside,Sefton,276410,Yes
-England,North Yorkshire,Selby,90620,No
-England,Kent,Sevenoaks,120750,No
-England,South Yorkshire,Sheffield,584853,No
-Scotland,Scotland,Shetland Islands,22920,Yes
-England,England,Shropshire,323136,No
-England,England,Slough,149539,No
-England,West Midlands,Solihull,216374,Yes
-England,Somerset,Somerset West and Taunton,155115,No
-Scotland,Scotland,South Ayrshire,112610,Yes
-England,Cambridgeshire,South Cambridgeshire,159086,No
-England,Derbyshire,South Derbyshire,107261,No
-England,England,South Gloucestershire,285093,No
-England,Devon,South Hams,87004,No
-England,Lincolnshire,South Holland,95019,No
-England,Lincolnshire,South Kesteven,142424,No
-England,Cumbria,South Lakeland,105088,No
-Scotland,Scotland,South Lanarkshire,320530,Yes
-England,Norfolk,South Norfolk,140880,No
-England,Northamptonshire,South Northamptonshire,94490,No
-England,Oxfordshire,South Oxfordshire,142057,No
-England,Lancashire,South Ribble,110788,Yes
-England,Somerset,South Somerset,168345,No
-England,Staffordshire,South Staffordshire,112436,No
-England,Tyne and Wear,South Tyneside,150976,Yes
-England,England,Southampton,252520,No
-England,England,Southend-on-Sea,183125,No
-England,Inner London,Southwark,318830,No
-England,Surrey,Spelthorne,99844,No
-England,Hertfordshire,St Albans,148452,No
-England,Merseyside,St. Helens,180585,Yes
-England,Staffordshire,Stafford,137280,No
-England,Staffordshire,Staffordshire Moorlands,98435,No
-England,Hertfordshire,Stevenage,87845,No
-Scotland,Scotland,Stirling,94210,Yes
-England,Greater Manchester,Stockport,293423,Yes
-England,England,Stockton-on-Tees,197348,No
-England,England,Stoke-on-Trent,256375,No
-England,Warwickshire,Stratford-on-Avon,130098,No
-England,Gloucestershire,Stroud,119964,No
-England,Tyne and Wear,Sunderland,277705,Yes
-England,Surrey,Surrey Heath,89305,No
-England,Outer London,Sutton,206349,No
-England,Kent,Swale,150082,No
-Wales,Wales,Swansea,246993,Yes
-England,England,Swindon,222193,No
-England,Greater Manchester,Tameside,226493,Yes
-England,Staffordshire,Tamworth,76696,No
-England,Surrey,Tandridge,88129,No
-England,Devon,Teignbridge,134163,No
-England,England,Telford and Wrekin,179854,No
-England,Essex,Tendring,146561,No
-England,Hampshire,Test Valley,126160,No
-England,Gloucestershire,Tewkesbury,95019,No
-England,Kent,Thanet,141922,No
-England,Hertfordshire,Three Rivers,93323,No
-England,England,Thurrock,174341,No
-England,Kent,Tonbridge and Malling,132153,No
-England,England,Torbay,136264,No
-Wales,Wales,Torfaen,93961,Yes
-England,Devon,Torridge,68267,No
-England,Inner London,Tower Hamlets,324745,No
-England,Greater Manchester,Trafford,237354,Yes
-England,Kent,Tunbridge Wells,118724,No
-England,Essex,Uttlesford,91284,No
-Wales,Wales,Vale of Glamorgan,133587,Yes
-England,Oxfordshire,Vale of White Horse,136007,No
-England,West Yorkshire,Wakefield,348312,No
-England,West Midlands,Walsall,285478,No
-England,Outer London,Waltham Forest,276983,No
-England,Inner London,Wandsworth,329677,No
-England,England,Warrington,210014,Yes
-England,Warwickshire,Warwick,143753,No
-England,Hertfordshire,Watford,96577,No
-England,Surrey,Waverley,126328,No
-England,East Sussex,Wealden,161475,No
-England,Northamptonshire,Wellingborough,79707,No
-England,Hertfordshire,Welwyn Hatfield,123043,No
-England,England,West Berkshire,158450,No
-England,Devon,West Devon,55796,No
-Scotland,Scotland,West Dunbartonshire,88930,Yes
-England,Lancashire,West Lancashire,114306,Yes
-England,Lincolnshire,West Lindsey,95667,No
-Scotland,Scotland,West Lothian,183100,Yes
-England,Oxfordshire,West Oxfordshire,110643,No
-England,Suffolk,West Suffolk,179045,No
-England,Inner London,Westminster,261317,No
-England,Greater Manchester,Wigan,328662,Yes
-England,England,Wiltshire,500024,No
-England,Hampshire,Winchester,124859,No
-England,England,Windsor and Maidenhead,151422,No
-England,Merseyside,Wirral,324011,Yes
-England,Surrey,Woking,100793,No
-England,England,Wokingham,171119,No
-England,West Midlands,Wolverhampton,263357,Yes
-England,Worcestershire,Worcester,101222,No
-England,West Sussex,Worthing,110570,No
-Wales,Wales,Wrexham,135957,Yes
-England,Worcestershire,Wychavon,129433,No
-England,Lancashire,Wyre,112091,Yes
-England,Worcestershire,Wyre Forest,101291,No
-England,England,York,210618,No
+Scotland,Scotland,Aberdeen City,228670,Tier 2
+Scotland,Scotland,Aberdeenshire,261210,Tier 2
+England,West Sussex,Adur,64301,Tier 1
+England,Cumbria,Allerdale,97761,Tier 1
+England,Derbyshire,Amber Valley,128147,Tier 1
+Scotland,Scotland,Angus,116200,Tier 2
+Northern Ireland,Northern Ireland,Antrim and Newtownabbey,143504,Tier 3
+Northern Ireland,Northern Ireland,Ards and North Down,161725,Tier 3
+Scotland,Scotland,Argyll and Bute,85870,Tier 2
+Northern Ireland,Northern Ireland,"Armagh City, Banbridge and Craigavon",216205,Tier 3
+England,West Sussex,Arun,160758,Tier 1
+England,Nottinghamshire,Ashfield,127918,Tier 1
+England,Kent,Ashford,130032,Tier 1
+England,Suffolk,Babergh,92036,Tier 1
+England,Outer London,Barking and Dagenham,212906,Tier 2
+England,Outer London,Barnet,395869,Tier 2
+England,South Yorkshire,Barnsley,246866,Tier 2
+England,Cumbria,Barrow-in-Furness,67049,Tier 2
+England,Essex,Basildon,187199,Tier 2
+England,Hampshire,Basingstoke and Deane,176582,Tier 1
+England,Nottinghamshire,Bassetlaw,117459,Tier 1
+England,England,Bath and North East Somerset,193282,Tier 1
+England,England,Bedford,173292,Tier 1
+Northern Ireland,Northern Ireland,Belfast,343542,Tier 3
+England,Outer London,Bexley,248287,Tier 2
+England,West Midlands,Birmingham,1141816,Tier 2
+England,Leicestershire,Blaby,101526,Tier 1
+England,England,Blackburn with Darwen,149696,Tier 1
+England,England,Blackpool,139446,Tier 1
+Wales,Wales,Blaenau Gwent,69862,Tier 2
+England,Derbyshire,Bolsover,80562,Tier 1
+England,Greater Manchester,Bolton,287550,Tier 2
+England,Lincolnshire,Boston,70173,Tier 1
+England,England,"Bournemouth, Christchurch and Poole",395331,Tier 1
+England,England,Bracknell Forest,122549,Tier 1
+England,West Yorkshire,Bradford,539776,Tier 2
+England,Essex,Braintree,152604,Tier 2
+England,Norfolk,Breckland,139968,Tier 1
+England,Outer London,Brent,329771,Tier 2
+England,Essex,Brentwood,77021,Tier 2
+Wales,Wales,Bridgend,147049,Tier 2
+England,England,Brighton and Hove,290885,Tier 1
+England,Somerset,Bristol,463377,Tier 1
+England,Norfolk,Broadland,130783,Tier 1
+England,Outer London,Bromley,332336,Tier 2
+England,Worcestershire,Bromsgrove,99881,Tier 1
+England,Hertfordshire,Broxbourne,97279,Tier 1
+England,Nottinghamshire,Broxtowe,114033,Tier 1
+England,England,Buckinghamshire,543973,Tier 1
+England,Lancashire,Burnley,88920,Tier 3
+England,Greater Manchester,Bury,190990,Tier 2
+Wales,Wales,Caerphilly,181075,Tier 2
+England,West Yorkshire,Calderdale,211455,Tier 2
+England,Cambridgeshire,Cambridge,124798,Tier 1
+England,Inner London,Camden,270029,Tier 2
+England,Staffordshire,Cannock Chase,100762,Tier 1
+England,Kent,Canterbury,165394,Tier 1
+Wales,Wales,Cardiff,366903,Tier 2
+England,Cumbria,Carlisle,108678,Tier 1
+Wales,Wales,Carmarthenshire,188771,Tier 2
+England,Essex,Castle Point,90376,Tier 2
+Northern Ireland,Northern Ireland,Causeway Coast and Glens,144838,Tier 3
+England,England,Central Bedfordshire,288648,Tier 1
+Wales,Wales,Ceredigion,72695,Tier 1
+England,Leicestershire,Charnwood,185851,Tier 1
+England,Essex,Chelmsford,178388,Tier 2
+England,Gloucestershire,Cheltenham,116306,Tier 1
+England,Oxfordshire,Cherwell,150503,Tier 1
+England,England,Cheshire East,384152,Tier 2
+England,England,Cheshire West and Chester,343071,Tier 2
+England,Derbyshire,Chesterfield,104900,Tier 2
+England,West Sussex,Chichester,121129,Tier 1
+England,Lancashire,Chorley,118216,Tier 3
+Scotland,Scotland,City of Edinburgh,524930,Tier 2
+England,Inner London,City of London,9721,Tier 2
+Scotland,Scotland,Clackmannanshire,51540,Tier 3
+England,Essex,Colchester,194706,Tier 2
+Wales,Wales,Conwy,117203,Tier 2
+England,Cumbria,Copeland,68183,Tier 1
+England,Northamptonshire,Corby,72218,Tier 1
+England,England,Cornwall,569578,Tier 1
+England,Gloucestershire,Cotswold,89862,Tier 1
+England,England,County Durham,530094,Tier 2
+England,West Midlands,Coventry,371521,Tier 1
+England,North Yorkshire,Craven,57142,Tier 1
+England,West Sussex,Crawley,112409,Tier 1
+England,Outer London,Croydon,386710,Tier 2
+England,Hertfordshire,Dacorum,154763,Tier 1
+England,England,Darlington,106803,Tier 2
+England,Kent,Dartford,112606,Tier 1
+England,Northamptonshire,Daventry,85950,Tier 1
+Wales,Wales,Denbighshire,95696,Tier 2
+England,England,Derby,257302,Tier 1
+England,Derbyshire,Derbyshire Dales,72325,Tier 1
+Northern Ireland,Northern Ireland,Derry City and Strabane,151284,Tier 3
+England,South Yorkshire,Doncaster,311890,Tier 2
+England,England,Dorset,378508,Tier 1
+England,Kent,Dover,118131,Tier 1
+England,West Midlands,Dudley,321596,Tier 1
+Scotland,Scotland,Dumfries and Galloway,148860,Tier 2
+Scotland,Scotland,Dundee City,149320,Tier 2
+England,Outer London,Ealing,341806,Tier 2
+Scotland,Scotland,East Ayrshire,122010,Tier 3
+England,Cambridgeshire,East Cambridgeshire,89840,Tier 1
+England,Devon,East Devon,146284,Tier 1
+Scotland,Scotland,East Dunbartonshire,108640,Tier 3
+England,Hampshire,East Hampshire,122308,Tier 1
+England,Hertfordshire,East Hertfordshire,149748,Tier 1
+England,Lincolnshire,East Lindsey,141727,Tier 1
+Scotland,Scotland,East Lothian,107090,Tier 3
+England,Northamptonshire,East Northamptonshire,94527,Tier 1
+Scotland,Scotland,East Renfrewshire,95530,Tier 3
+England,England,East Riding of Yorkshire,341173,Tier 1
+England,Staffordshire,East Staffordshire,119754,Tier 1
+England,Suffolk,East Suffolk,249461,Tier 1
+England,East Sussex,Eastbourne,103745,Tier 1
+England,Hampshire,Eastleigh,133584,Tier 1
+England,Cumbria,Eden,53253,Tier 1
+England,Surrey,Elmbridge,136795,Tier 2
+England,Outer London,Enfield,333794,Tier 2
+England,Essex,Epping Forest,131689,Tier 2
+England,Surrey,Epsom and Ewell,80627,Tier 1
+England,Derbyshire,Erewash,115371,Tier 2
+England,Devon,Exeter,131405,Tier 1
+Scotland,Scotland,Falkirk,160890,Tier 3
+England,Hampshire,Fareham,116233,Tier 1
+England,Cambridgeshire,Fenland,101850,Tier 1
+Northern Ireland,Northern Ireland,Fermanagh and Omagh,117397,Tier 3
+Scotland,Scotland,Fife,373550,Tier 2
+Wales,Wales,Flintshire,156100,Tier 2
+England,Kent,Folkestone and Hythe,112996,Tier 1
+England,Gloucestershire,Forest of Dean,86791,Tier 1
+England,Lancashire,Fylde,80780,Tier 3
+England,Tyne and Wear,Gateshead,202055,Tier 2
+England,Nottinghamshire,Gedling,117896,Tier 1
+Scotland,Scotland,Glasgow City,633120,Tier 3
+England,Gloucestershire,Gloucester,129128,Tier 1
+England,Hampshire,Gosport,84838,Tier 1
+England,Kent,Gravesham,106939,Tier 1
+England,Norfolk,Great Yarmouth,99336,Tier 1
+England,Outer London,Greenwich,287942,Tier 2
+England,Surrey,Guildford,148998,Tier 1
+Wales,Wales,Gwynedd,124560,Tier 2
+England,Inner London,Hackney,281120,Tier 2
+England,England,Halton,129410,Tier 1
+England,North Yorkshire,Hambleton,91594,Tier 1
+England,Inner London,Hammersmith and Fulham,185143,Tier 2
+England,Leicestershire,Harborough,93807,Tier 1
+England,Inner London,Haringey,268647,Tier 2
+England,Essex,Harlow,87067,Tier 2
+England,North Yorkshire,Harrogate,160831,Tier 1
+England,Outer London,Harrow,251160,Tier 2
+England,Hampshire,Hart,97073,Tier 1
+England,England,Hartlepool,93663,Tier 2
+England,East Sussex,Hastings,92661,Tier 1
+England,Hampshire,Havant,126220,Tier 1
+England,Outer London,Havering,259552,Tier 2
+England,England,"Herefordshire, County of",192801,Tier 1
+England,Hertfordshire,Hertsmere,104919,Tier 1
+England,Derbyshire,High Peak,92666,Tier 2
+Scotland,Scotland,Highland,235830,Tier 2
+England,Outer London,Hillingdon,306870,Tier 2
+England,Leicestershire,Hinckley and Bosworth,113136,Tier 1
+England,West Sussex,Horsham,143791,Tier 1
+England,Outer London,Hounslow,271523,Tier 2
+England,Cambridgeshire,Huntingdonshire,177963,Tier 1
+England,Lancashire,Hyndburn,81043,Tier 3
+Scotland,Scotland,Inverclyde,77800,Tier 3
+England,Suffolk,Ipswich,136913,Tier 1
+Wales,Wales,Isle of Anglesey,70043,Tier 1
+England,England,Isle of Wight,141771,Tier 1
+England,England,Isles of Scilly,2224,Tier 1
+England,Inner London,Islington,242467,Tier 2
+England,Inner London,Kensington and Chelsea,156129,Tier 2
+England,Northamptonshire,Kettering,101776,Tier 1
+England,Norfolk,King's Lynn and West Norfolk,151383,Tier 1
+England,England,"Kingston upon Hull, City of",259778,Tier 1
+England,Outer London,Kingston upon Thames,177507,Tier 2
+England,West Yorkshire,Kirklees,439787,Tier 2
+England,Merseyside,Knowsley,150862,Tier 1
+England,Inner London,Lambeth,326034,Tier 2
+England,Lancashire,Lancaster,146038,Tier 3
+England,West Yorkshire,Leeds,793139,Tier 2
+England,England,Leicester,354224,Tier 2
+England,East Sussex,Lewes,103268,Tier 1
+England,Inner London,Lewisham,305842,Tier 2
+England,Staffordshire,Lichfield,104756,Tier 1
+England,Lincolnshire,Lincoln,99299,Tier 1
+Northern Ireland,Northern Ireland,Lisburn and Castlereagh,146002,Tier 3
+England,Merseyside,Liverpool,498042,Tier 3
+England,England,Luton,213052,Tier 1
+England,Kent,Maidstone,171826,Tier 1
+England,Essex,Maldon,64926,Tier 2
+England,Worcestershire,Malvern Hills,78698,Tier 1
+England,Greater Manchester,Manchester,552858,Tier 2
+England,Nottinghamshire,Mansfield,109313,Tier 1
+England,England,Medway,278556,Tier 1
+England,Leicestershire,Melton,51209,Tier 1
+England,Somerset,Mendip,115587,Tier 1
+Wales,Wales,Merthyr Tydfil,60326,Tier 2
+England,Outer London,Merton,206548,Tier 2
+Northern Ireland,Northern Ireland,Mid and East Antrim,139274,Tier 3
+England,Devon,Mid Devon,82311,Tier 1
+England,Suffolk,Mid Suffolk,103895,Tier 1
+England,West Sussex,Mid Sussex,151022,Tier 1
+Northern Ireland,Northern Ireland,Mid Ulster,148528,Tier 3
+England,England,Middlesbrough,140980,Tier 2
+Scotland,Scotland,Midlothian,92460,Tier 3
+England,England,Milton Keynes,269457,Tier 1
+England,Surrey,Mole Valley,87245,Tier 1
+Wales,Wales,Monmouthshire,94590,Tier 1
+Scotland,Scotland,Moray,95820,Tier 2
+Scotland,Scotland,Na h-Eileanan Siar,26720,Tier 2
+Wales,Wales,Neath Port Talbot,143315,Tier 2
+England,Hampshire,New Forest,180086,Tier 1
+England,Nottinghamshire,Newark and Sherwood,122421,Tier 1
+England,Tyne and Wear,Newcastle upon Tyne,302820,Tier 2
+England,Staffordshire,Newcastle-under-Lyme,129441,Tier 1
+England,Inner London,Newham,353134,Tier 2
+Wales,Wales,Newport,154676,Tier 2
+Northern Ireland,Northern Ireland,"Newry, Mourne and Down",181368,Tier 3
+Scotland,Scotland,North Ayrshire,134740,Tier 3
+England,Devon,North Devon,97145,Tier 1
+England,Derbyshire,North East Derbyshire,101462,Tier 1
+England,England,North East Lincolnshire,159563,Tier 1
+England,Hertfordshire,North Hertfordshire,133570,Tier 1
+England,Lincolnshire,North Kesteven,116915,Tier 1
+Scotland,Scotland,North Lanarkshire,341370,Tier 3
+England,England,North Lincolnshire,172292,Tier 1
+England,Norfolk,North Norfolk,104837,Tier 1
+England,England,North Somerset,215052,Tier 1
+England,Tyne and Wear,North Tyneside,207913,Tier 2
+England,Warwickshire,North Warwickshire,65264,Tier 1
+England,Leicestershire,North West Leicestershire,103611,Tier 1
+England,Northamptonshire,Northampton,224610,Tier 1
+England,England,Northumberland,322434,Tier 2
+England,Norfolk,Norwich,140573,Tier 1
+England,England,Nottingham,332900,Tier 2
+England,Warwickshire,Nuneaton and Bedworth,129883,Tier 1
+England,Leicestershire,Oadby and Wigston,57015,Tier 2
+England,Greater Manchester,Oldham,237110,Tier 2
+Scotland,Scotland,Orkney Islands,22270,Tier 2
+England,Oxfordshire,Oxford,152457,Tier 1
+Wales,Wales,Pembrokeshire,125818,Tier 1
+England,Lancashire,Pendle,92112,Tier 3
+Scotland,Scotland,Perth and Kinross,151950,Tier 2
+England,England,Peterborough,202259,Tier 1
+England,England,Plymouth,262100,Tier 1
+England,England,Portsmouth,214905,Tier 1
+Wales,Wales,Powys,132435,Tier 1
+England,Lancashire,Preston,143135,Tier 3
+England,England,Reading,161780,Tier 1
+England,Outer London,Redbridge,305222,Tier 2
+England,England,Redcar and Cleveland,137150,Tier 2
+England,Worcestershire,Redditch,85261,Tier 1
+England,Surrey,Reigate and Banstead,148748,Tier 1
+Scotland,Scotland,Renfrewshire,179100,Tier 3
+Wales,Wales,Rhondda Cynon Taf,241264,Tier 2
+England,Lancashire,Ribble Valley,60888,Tier 3
+England,Outer London,Richmond upon Thames,198019,Tier 2
+England,North Yorkshire,Richmondshire,53730,Tier 1
+England,Greater Manchester,Rochdale,222412,Tier 2
+England,Essex,Rochford,87368,Tier 2
+England,Lancashire,Rossendale,71482,Tier 3
+England,East Sussex,Rother,96080,Tier 1
+England,South Yorkshire,Rotherham,265411,Tier 2
+England,Warwickshire,Rugby,108935,Tier 1
+England,Surrey,Runnymede,89424,Tier 1
+England,Nottinghamshire,Rushcliffe,119184,Tier 1
+England,Hampshire,Rushmoor,94599,Tier 1
+England,England,Rutland,39927,Tier 1
+England,North Yorkshire,Ryedale,55380,Tier 1
+England,Greater Manchester,Salford,258834,Tier 2
+England,West Midlands,Sandwell,328450,Tier 2
+England,North Yorkshire,Scarborough,108757,Tier 1
+Scotland,Scotland,Scottish Borders,115510,Tier 2
+England,Somerset,Sedgemoor,123178,Tier 1
+England,Merseyside,Sefton,276410,Tier 1
+England,North Yorkshire,Selby,90620,Tier 1
+England,Kent,Sevenoaks,120750,Tier 1
+England,South Yorkshire,Sheffield,584853,Tier 2
+Scotland,Scotland,Shetland Islands,22920,Tier 2
+England,England,Shropshire,323136,Tier 1
+England,England,Slough,149539,Tier 1
+England,West Midlands,Solihull,216374,Tier 2
+England,Somerset,Somerset West and Taunton,155115,Tier 1
+Scotland,Scotland,South Ayrshire,112610,Tier 3
+England,Cambridgeshire,South Cambridgeshire,159086,Tier 1
+England,Derbyshire,South Derbyshire,107261,Tier 1
+England,England,South Gloucestershire,285093,Tier 1
+England,Devon,South Hams,87004,Tier 1
+England,Lincolnshire,South Holland,95019,Tier 1
+England,Lincolnshire,South Kesteven,142424,Tier 1
+England,Cumbria,South Lakeland,105088,Tier 1
+Scotland,Scotland,South Lanarkshire,320530,Tier 3
+England,Norfolk,South Norfolk,140880,Tier 1
+England,Northamptonshire,South Northamptonshire,94490,Tier 1
+England,Oxfordshire,South Oxfordshire,142057,Tier 1
+England,Lancashire,South Ribble,110788,Tier 3
+England,Somerset,South Somerset,168345,Tier 1
+England,Staffordshire,South Staffordshire,112436,Tier 1
+England,Tyne and Wear,South Tyneside,150976,Tier 2
+England,England,Southampton,252520,Tier 1
+England,England,Southend-on-Sea,183125,Tier 1
+England,Inner London,Southwark,318830,Tier 2
+England,Surrey,Spelthorne,99844,Tier 1
+England,Hertfordshire,St Albans,148452,Tier 1
+England,Merseyside,St. Helens,180585,Tier 1
+England,Staffordshire,Stafford,137280,Tier 1
+England,Staffordshire,Staffordshire Moorlands,98435,Tier 1
+England,Hertfordshire,Stevenage,87845,Tier 1
+Scotland,Scotland,Stirling,94210,Tier 3
+England,Greater Manchester,Stockport,293423,Tier 2
+England,England,Stockton-on-Tees,197348,Tier 2
+England,England,Stoke-on-Trent,256375,Tier 1
+England,Warwickshire,Stratford-on-Avon,130098,Tier 1
+England,Gloucestershire,Stroud,119964,Tier 1
+England,Tyne and Wear,Sunderland,277705,Tier 2
+England,Surrey,Surrey Heath,89305,Tier 1
+England,Outer London,Sutton,206349,Tier 2
+England,Kent,Swale,150082,Tier 1
+Wales,Wales,Swansea,246993,Tier 2
+England,England,Swindon,222193,Tier 1
+England,Greater Manchester,Tameside,226493,Tier 2
+England,Staffordshire,Tamworth,76696,Tier 1
+England,Surrey,Tandridge,88129,Tier 1
+England,Devon,Teignbridge,134163,Tier 1
+England,England,Telford and Wrekin,179854,Tier 1
+England,Essex,Tendring,146561,Tier 2
+England,Hampshire,Test Valley,126160,Tier 1
+England,Gloucestershire,Tewkesbury,95019,Tier 1
+England,Kent,Thanet,141922,Tier 1
+England,Hertfordshire,Three Rivers,93323,Tier 1
+England,England,Thurrock,174341,Tier 1
+England,Kent,Tonbridge and Malling,132153,Tier 1
+England,England,Torbay,136264,Tier 1
+Wales,Wales,Torfaen,93961,Tier 2
+England,Devon,Torridge,68267,Tier 1
+England,Inner London,Tower Hamlets,324745,Tier 2
+England,Greater Manchester,Trafford,237354,Tier 2
+England,Kent,Tunbridge Wells,118724,Tier 1
+England,Essex,Uttlesford,91284,Tier 2
+Wales,Wales,Vale of Glamorgan,133587,Tier 2
+England,Oxfordshire,Vale of White Horse,136007,Tier 1
+England,West Yorkshire,Wakefield,348312,Tier 2
+England,West Midlands,Walsall,285478,Tier 2
+England,Outer London,Waltham Forest,276983,Tier 2
+England,Inner London,Wandsworth,329677,Tier 2
+England,England,Warrington,210014,Tier 2
+England,Warwickshire,Warwick,143753,Tier 1
+England,Hertfordshire,Watford,96577,Tier 1
+England,Surrey,Waverley,126328,Tier 1
+England,East Sussex,Wealden,161475,Tier 1
+England,Northamptonshire,Wellingborough,79707,Tier 1
+England,Hertfordshire,Welwyn Hatfield,123043,Tier 1
+England,England,West Berkshire,158450,Tier 1
+England,Devon,West Devon,55796,Tier 1
+Scotland,Scotland,West Dunbartonshire,88930,Tier 3
+England,Lancashire,West Lancashire,114306,Tier 3
+England,Lincolnshire,West Lindsey,95667,Tier 1
+Scotland,Scotland,West Lothian,183100,Tier 3
+England,Oxfordshire,West Oxfordshire,110643,Tier 1
+England,Suffolk,West Suffolk,179045,Tier 1
+England,Inner London,Westminster,261317,Tier 2
+England,Greater Manchester,Wigan,328662,Tier 2
+England,England,Wiltshire,500024,Tier 1
+England,Hampshire,Winchester,124859,Tier 1
+England,England,Windsor and Maidenhead,151422,Tier 1
+England,Merseyside,Wirral,324011,Tier 1
+England,Surrey,Woking,100793,Tier 1
+England,England,Wokingham,171119,Tier 1
+England,West Midlands,Wolverhampton,263357,Tier 2
+England,Worcestershire,Worcester,101222,Tier 1
+England,West Sussex,Worthing,110570,Tier 1
+Wales,Wales,Wrexham,135957,Tier 2
+England,Worcestershire,Wychavon,129433,Tier 1
+England,Lancashire,Wyre,112091,Tier 3
+England,Worcestershire,Wyre Forest,101291,Tier 1
+England,England,York,210618,Tier 2
