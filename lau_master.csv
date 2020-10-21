@@ -30,7 +30,7 @@ England,England,Blackburn with Darwen,149696,Tier 1
 England,England,Blackpool,139446,Tier 1
 Wales,Wales,Blaenau Gwent,69862,Tier 2
 England,Derbyshire,Bolsover,80562,Tier 1
-England,Greater Manchester,Bolton,287550,Tier 2
+England,Greater Manchester,Bolton,287550,Tier 3
 England,Lincolnshire,Boston,70173,Tier 1
 England,England,"Bournemouth, Christchurch and Poole",395331,Tier 1
 England,England,Bracknell Forest,122549,Tier 1
@@ -49,7 +49,7 @@ England,Hertfordshire,Broxbourne,97279,Tier 1
 England,Nottinghamshire,Broxtowe,114033,Tier 1
 England,England,Buckinghamshire,543973,Tier 1
 England,Lancashire,Burnley,88920,Tier 3
-England,Greater Manchester,Bury,190990,Tier 2
+England,Greater Manchester,Bury,190990,Tier 3
 Wales,Wales,Caerphilly,181075,Tier 2
 England,West Yorkshire,Calderdale,211455,Tier 2
 England,Cambridgeshire,Cambridge,124798,Tier 1
@@ -193,7 +193,7 @@ England,England,Luton,213052,Tier 1
 England,Kent,Maidstone,171826,Tier 1
 England,Essex,Maldon,64926,Tier 2
 England,Worcestershire,Malvern Hills,78698,Tier 1
-England,Greater Manchester,Manchester,552858,Tier 2
+England,Greater Manchester,Manchester,552858,Tier 3
 England,Nottinghamshire,Mansfield,109313,Tier 1
 England,England,Medway,278556,Tier 1
 England,Leicestershire,Melton,51209,Tier 1
@@ -239,7 +239,7 @@ England,Norfolk,Norwich,140573,Tier 1
 England,England,Nottingham,332900,Tier 2
 England,Warwickshire,Nuneaton and Bedworth,129883,Tier 1
 England,Leicestershire,Oadby and Wigston,57015,Tier 2
-England,Greater Manchester,Oldham,237110,Tier 2
+England,Greater Manchester,Oldham,237110,Tier 3
 Scotland,Scotland,Orkney Islands,22270,Tier 2
 England,Oxfordshire,Oxford,152457,Tier 1
 Wales,Wales,Pembrokeshire,125818,Tier 1
@@ -260,7 +260,7 @@ Wales,Wales,Rhondda Cynon Taf,241264,Tier 2
 England,Lancashire,Ribble Valley,60888,Tier 3
 England,Outer London,Richmond upon Thames,198019,Tier 2
 England,North Yorkshire,Richmondshire,53730,Tier 1
-England,Greater Manchester,Rochdale,222412,Tier 2
+England,Greater Manchester,Rochdale,222412,Tier 3
 England,Essex,Rochford,87368,Tier 2
 England,Lancashire,Rossendale,71482,Tier 3
 England,East Sussex,Rother,96080,Tier 1
@@ -271,7 +271,7 @@ England,Nottinghamshire,Rushcliffe,119184,Tier 1
 England,Hampshire,Rushmoor,94599,Tier 1
 England,England,Rutland,39927,Tier 1
 England,North Yorkshire,Ryedale,55380,Tier 1
-England,Greater Manchester,Salford,258834,Tier 2
+England,Greater Manchester,Salford,258834,Tier 3
 England,West Midlands,Sandwell,328450,Tier 2
 England,North Yorkshire,Scarborough,108757,Tier 1
 Scotland,Scotland,Scottish Borders,115510,Tier 2
@@ -311,7 +311,7 @@ England,Staffordshire,Stafford,137280,Tier 1
 England,Staffordshire,Staffordshire Moorlands,98435,Tier 1
 England,Hertfordshire,Stevenage,87845,Tier 1
 Scotland,Scotland,Stirling,94210,Tier 3
-England,Greater Manchester,Stockport,293423,Tier 2
+England,Greater Manchester,Stockport,293423,Tier 3
 England,England,Stockton-on-Tees,197348,Tier 2
 England,England,Stoke-on-Trent,256375,Tier 1
 England,Warwickshire,Stratford-on-Avon,130098,Tier 1
@@ -322,7 +322,7 @@ England,Outer London,Sutton,206349,Tier 2
 England,Kent,Swale,150082,Tier 1
 Wales,Wales,Swansea,246993,Tier 2
 England,England,Swindon,222193,Tier 1
-England,Greater Manchester,Tameside,226493,Tier 2
+England,Greater Manchester,Tameside,226493,Tier 3
 England,Staffordshire,Tamworth,76696,Tier 1
 England,Surrey,Tandridge,88129,Tier 1
 England,Devon,Teignbridge,134163,Tier 1
@@ -338,7 +338,7 @@ England,England,Torbay,136264,Tier 1
 Wales,Wales,Torfaen,93961,Tier 2
 England,Devon,Torridge,68267,Tier 1
 England,Inner London,Tower Hamlets,324745,Tier 2
-England,Greater Manchester,Trafford,237354,Tier 2
+England,Greater Manchester,Trafford,237354,Tier 3
 England,Kent,Tunbridge Wells,118724,Tier 1
 England,Essex,Uttlesford,91284,Tier 2
 Wales,Wales,Vale of Glamorgan,133587,Tier 2
@@ -363,7 +363,7 @@ Scotland,Scotland,West Lothian,183100,Tier 3
 England,Oxfordshire,West Oxfordshire,110643,Tier 1
 England,Suffolk,West Suffolk,179045,Tier 1
 England,Inner London,Westminster,261317,Tier 2
-England,Greater Manchester,Wigan,328662,Tier 2
+England,Greater Manchester,Wigan,328662,Tier 3
 England,England,Wiltshire,500024,Tier 1
 England,Hampshire,Winchester,124859,Tier 1
 England,England,Windsor and Maidenhead,151422,Tier 1
