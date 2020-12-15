@@ -13,17 +13,17 @@ England,West Sussex,Arun,160758,Tier 2
 England,Nottinghamshire,Ashfield,127918,Tier 3
 England,Kent,Ashford,130032,Tier 3
 England,Suffolk,Babergh,92036,Tier 2
-England,Outer London,Barking and Dagenham,212906,Tier 2
-England,Outer London,Barnet,395869,Tier 2
+England,Outer London,Barking and Dagenham,212906,Tier 3
+England,Outer London,Barnet,395869,Tier 3
 England,South Yorkshire,Barnsley,246866,Tier 3
 England,Cumbria,Barrow-in-Furness,67049,Tier 2
-England,Essex,Basildon,187199,Tier 2
+England,Essex,Basildon,187199,Tier 3
 England,Hampshire,Basingstoke and Deane,176582,Tier 2
 England,Nottinghamshire,Bassetlaw,117459,Tier 3
 England,Somerset,Bath and North East Somerset,193282,Tier 2
 England,Bedfordshire,Bedford,173292,Tier 2
 Northern Ireland,Northern Ireland,Belfast,343542,Tier 3
-England,Outer London,Bexley,248287,Tier 2
+England,Outer London,Bexley,248287,Tier 3
 England,West Midlands,Birmingham,1141816,Tier 3
 England,Leicestershire,Blaby,101526,Tier 3
 England,Lancashire,Blackburn with Darwen,149696,Tier 3
@@ -35,17 +35,17 @@ England,Lincolnshire,Boston,70173,Tier 3
 England,Dorset,"Bournemouth, Christchurch and Poole",395331,Tier 2
 England,Berkshire,Bracknell Forest,122549,Tier 2
 England,West Yorkshire,Bradford,539776,Tier 3
-England,Essex,Braintree,152604,Tier 2
+England,Essex,Braintree,152604,Tier 3
 England,Norfolk,Breckland,139968,Tier 2
-England,Outer London,Brent,329771,Tier 2
+England,Outer London,Brent,329771,Tier 3
 England,Essex,Brentwood,77021,Tier 2
 Wales,Wales,Bridgend,147049,Tier 2
 England,West Sussex,Brighton and Hove,290885,Tier 2
 England,Somerset,Bristol,463377,Tier 3
 England,Norfolk,Broadland,130783,Tier 2
-England,Outer London,Bromley,332336,Tier 2
+England,Outer London,Bromley,332336,Tier 3
 England,Worcestershire,Bromsgrove,99881,Tier 2
-England,Hertfordshire,Broxbourne,97279,Tier 2
+England,Hertfordshire,Broxbourne,97279,Tier 3
 England,Nottinghamshire,Broxtowe,114033,Tier 3
 England,Buckinghamshire,Buckinghamshire,543973,Tier 2
 England,Lancashire,Burnley,88920,Tier 3
@@ -53,18 +53,18 @@ England,Greater Manchester,Bury,190990,Tier 3
 Wales,Wales,Caerphilly,181075,Tier 2
 England,West Yorkshire,Calderdale,211455,Tier 3
 England,Cambridgeshire,Cambridge,124798,Tier 2
-England,Inner London,Camden,270029,Tier 2
+England,Inner London,Camden,270029,Tier 3
 England,Staffordshire,Cannock Chase,100762,Tier 3
 England,Kent,Canterbury,165394,Tier 3
 Wales,Wales,Cardiff,366903,Tier 2
 England,Cumbria,Carlisle,108678,Tier 2
 Wales,Wales,Carmarthenshire,188771,Tier 2
-England,Essex,Castle Point,90376,Tier 2
+England,Essex,Castle Point,90376,Tier 3
 Northern Ireland,Northern Ireland,Causeway Coast and Glens,144838,Tier 3
 England,Bedfordshire,Central Bedfordshire,288648,Tier 2
 Wales,Wales,Ceredigion,72695,Tier 2
 England,Leicestershire,Charnwood,185851,Tier 3
-England,Essex,Chelmsford,178388,Tier 2
+England,Essex,Chelmsford,178388,Tier 3
 England,Gloucestershire,Cheltenham,116306,Tier 2
 England,Oxfordshire,Cherwell,150503,Tier 2
 England,Cheshire,Cheshire East,384152,Tier 2
@@ -73,7 +73,7 @@ England,Derbyshire,Chesterfield,104900,Tier 3
 England,West Sussex,Chichester,121129,Tier 2
 England,Lancashire,Chorley,118216,Tier 3
 Scotland,Scotland,City of Edinburgh,524930,Tier 3
-England,Inner London,City of London,9721,Tier 2
+England,Inner London,City of London,9721,Tier 3
 Scotland,Scotland,Clackmannanshire,51540,Tier 3
 England,Essex,Colchester,194706,Tier 2
 Wales,Wales,Conwy,117203,Tier 2
@@ -85,7 +85,7 @@ England,Durham,County Durham,530094,Tier 3
 England,West Midlands,Coventry,371521,Tier 3
 England,North Yorkshire,Craven,57142,Tier 2
 England,West Sussex,Crawley,112409,Tier 2
-England,Outer London,Croydon,386710,Tier 2
+England,Outer London,Croydon,386710,Tier 3
 England,Hertfordshire,Dacorum,154763,Tier 2
 England,Durham,Darlington,106803,Tier 3
 England,Kent,Dartford,112606,Tier 3
@@ -100,7 +100,7 @@ England,Kent,Dover,118131,Tier 3
 England,West Midlands,Dudley,321596,Tier 3
 Scotland,Scotland,Dumfries and Galloway,148860,Tier 2
 Scotland,Scotland,Dundee City,149320,Tier 3
-England,Outer London,Ealing,341806,Tier 2
+England,Outer London,Ealing,341806,Tier 3
 Scotland,Scotland,East Ayrshire,122010,Tier 4
 England,Cambridgeshire,East Cambridgeshire,89840,Tier 2
 England,Devon,East Devon,146284,Tier 2
@@ -118,8 +118,8 @@ England,East Sussex,Eastbourne,103745,Tier 2
 England,Hampshire,Eastleigh,133584,Tier 2
 England,Cumbria,Eden,53253,Tier 2
 England,Surrey,Elmbridge,136795,Tier 2
-England,Outer London,Enfield,333794,Tier 2
-England,Essex,Epping Forest,131689,Tier 2
+England,Outer London,Enfield,333794,Tier 3
+England,Essex,Epping Forest,131689,Tier 3
 England,Surrey,Epsom and Ewell,80627,Tier 2
 England,Derbyshire,Erewash,115371,Tier 3
 England,Devon,Exeter,131405,Tier 2
@@ -139,31 +139,31 @@ England,Gloucestershire,Gloucester,129128,Tier 2
 England,Hampshire,Gosport,84838,Tier 2
 England,Kent,Gravesham,106939,Tier 3
 England,Norfolk,Great Yarmouth,99336,Tier 2
-England,Outer London,Greenwich,287942,Tier 2
+England,Outer London,Greenwich,287942,Tier 3
 England,Surrey,Guildford,148998,Tier 2
 Wales,Wales,Gwynedd,124560,Tier 2
-England,Inner London,Hackney,281120,Tier 2
+England,Inner London,Hackney,281120,Tier 3
 England,Cheshire,Halton,129410,Tier 2
 England,North Yorkshire,Hambleton,91594,Tier 2
-England,Inner London,Hammersmith and Fulham,185143,Tier 2
+England,Inner London,Hammersmith and Fulham,185143,Tier 3
 England,Leicestershire,Harborough,93807,Tier 3
-England,Inner London,Haringey,268647,Tier 2
-England,Essex,Harlow,87067,Tier 2
+England,Inner London,Haringey,268647,Tier 3
+England,Essex,Harlow,87067,Tier 3
 England,North Yorkshire,Harrogate,160831,Tier 2
-England,Outer London,Harrow,251160,Tier 2
+England,Outer London,Harrow,251160,Tier 3
 England,Hampshire,Hart,97073,Tier 2
 England,Durham,Hartlepool,93663,Tier 3
 England,East Sussex,Hastings,92661,Tier 2
 England,Hampshire,Havant,126220,Tier 2
-England,Outer London,Havering,259552,Tier 2
+England,Outer London,Havering,259552,Tier 3
 England,Herefordshire,"Herefordshire, County of",192801,Tier 2
-England,Hertfordshire,Hertsmere,104919,Tier 2
+England,Hertfordshire,Hertsmere,104919,Tier 3
 England,Derbyshire,High Peak,92666,Tier 3
 Scotland,Scotland,Highland,235830,Tier 1
-England,Outer London,Hillingdon,306870,Tier 2
+England,Outer London,Hillingdon,306870,Tier 3
 England,Leicestershire,Hinckley and Bosworth,113136,Tier 3
 England,West Sussex,Horsham,143791,Tier 2
-England,Outer London,Hounslow,271523,Tier 2
+England,Outer London,Hounslow,271523,Tier 3
 England,Cambridgeshire,Huntingdonshire,177963,Tier 2
 England,Lancashire,Hyndburn,81043,Tier 3
 Scotland,Scotland,Inverclyde,77800,Tier 3
@@ -171,27 +171,27 @@ England,Suffolk,Ipswich,136913,Tier 2
 Wales,Wales,Isle of Anglesey,70043,Tier 2
 England,Hampshire,Isle of Wight,141771,Tier 1
 England,Cornwall,Isles of Scilly,2224,Tier 1
-England,Inner London,Islington,242467,Tier 2
-England,Inner London,Kensington and Chelsea,156129,Tier 2
+England,Inner London,Islington,242467,Tier 3
+England,Inner London,Kensington and Chelsea,156129,Tier 3
 England,Northamptonshire,Kettering,101776,Tier 2
 England,Norfolk,King's Lynn and West Norfolk,151383,Tier 2
 England,East Yorkshire,"Kingston upon Hull, City of",259778,Tier 3
-England,Outer London,Kingston upon Thames,177507,Tier 2
+England,Outer London,Kingston upon Thames,177507,Tier 3
 England,West Yorkshire,Kirklees,439787,Tier 3
 England,Merseyside,Knowsley,150862,Tier 2
-England,Inner London,Lambeth,326034,Tier 2
+England,Inner London,Lambeth,326034,Tier 3
 England,Lancashire,Lancaster,146038,Tier 3
 England,West Yorkshire,Leeds,793139,Tier 3
 England,Leicestershire,Leicester,354224,Tier 3
 England,East Sussex,Lewes,103268,Tier 2
-England,Inner London,Lewisham,305842,Tier 2
+England,Inner London,Lewisham,305842,Tier 3
 England,Staffordshire,Lichfield,104756,Tier 3
 England,Lincolnshire,Lincoln,99299,Tier 3
 Northern Ireland,Northern Ireland,Lisburn and Castlereagh,146002,Tier 3
 England,Merseyside,Liverpool,498042,Tier 2
 England,Bedfordshire,Luton,213052,Tier 2
 England,Kent,Maidstone,171826,Tier 3
-England,Essex,Maldon,64926,Tier 2
+England,Essex,Maldon,64926,Tier 3
 England,Worcestershire,Malvern Hills,78698,Tier 2
 England,Greater Manchester,Manchester,552858,Tier 3
 England,Nottinghamshire,Mansfield,109313,Tier 3
@@ -199,7 +199,7 @@ England,Kent,Medway,278556,Tier 3
 England,Leicestershire,Melton,51209,Tier 3
 England,Somerset,Mendip,115587,Tier 2
 Wales,Wales,Merthyr Tydfil,60326,Tier 2
-England,Outer London,Merton,206548,Tier 2
+England,Outer London,Merton,206548,Tier 3
 Northern Ireland,Northern Ireland,Mid and East Antrim,139274,Tier 3
 England,Devon,Mid Devon,82311,Tier 2
 England,Suffolk,Mid Suffolk,103895,Tier 2
@@ -217,7 +217,7 @@ England,Hampshire,New Forest,180086,Tier 2
 England,Nottinghamshire,Newark and Sherwood,122421,Tier 3
 England,Tyne and Wear,Newcastle upon Tyne,302820,Tier 3
 England,Staffordshire,Newcastle-under-Lyme,129441,Tier 3
-England,Inner London,Newham,353134,Tier 2
+England,Inner London,Newham,353134,Tier 3
 Wales,Wales,Newport,154676,Tier 2
 Northern Ireland,Northern Ireland,"Newry, Mourne and Down",181368,Tier 3
 Scotland,Scotland,North Ayrshire,134740,Tier 3
@@ -251,17 +251,17 @@ England,Hampshire,Portsmouth,214905,Tier 2
 Wales,Wales,Powys,132435,Tier 2
 England,Lancashire,Preston,143135,Tier 3
 England,Berkshire,Reading,161780,Tier 2
-England,Outer London,Redbridge,305222,Tier 2
+England,Outer London,Redbridge,305222,Tier 3
 England,North Yorkshire,Redcar and Cleveland,137150,Tier 3
 England,Worcestershire,Redditch,85261,Tier 2
 England,Surrey,Reigate and Banstead,148748,Tier 2
 Scotland,Scotland,Renfrewshire,179100,Tier 4
 Wales,Wales,Rhondda Cynon Taf,241264,Tier 2
 England,Lancashire,Ribble Valley,60888,Tier 3
-England,Outer London,Richmond upon Thames,198019,Tier 2
+England,Outer London,Richmond upon Thames,198019,Tier 3
 England,North Yorkshire,Richmondshire,53730,Tier 2
 England,Greater Manchester,Rochdale,222412,Tier 3
-England,Essex,Rochford,87368,Tier 2
+England,Essex,Rochford,87368,Tier 3
 England,Lancashire,Rossendale,71482,Tier 3
 England,East Sussex,Rother,96080,Tier 2
 England,South Yorkshire,Rotherham,265411,Tier 3
@@ -302,8 +302,8 @@ England,Somerset,South Somerset,168345,Tier 2
 England,Staffordshire,South Staffordshire,112436,Tier 3
 England,Tyne and Wear,South Tyneside,150976,Tier 3
 England,Hampshire,Southampton,252520,Tier 2
-England,Essex,Southend-on-Sea,183125,Tier 2
-England,Inner London,Southwark,318830,Tier 2
+England,Essex,Southend-on-Sea,183125,Tier 3
+England,Inner London,Southwark,318830,Tier 3
 England,Surrey,Spelthorne,99844,Tier 2
 England,Hertfordshire,St Albans,148452,Tier 2
 England,Merseyside,St. Helens,180585,Tier 2
@@ -318,7 +318,7 @@ England,Warwickshire,Stratford-on-Avon,130098,Tier 2
 England,Gloucestershire,Stroud,119964,Tier 2
 England,Tyne and Wear,Sunderland,277705,Tier 3
 England,Surrey,Surrey Heath,89305,Tier 2
-England,Outer London,Sutton,206349,Tier 2
+England,Outer London,Sutton,206349,Tier 3
 England,Kent,Swale,150082,Tier 3
 Wales,Wales,Swansea,246993,Tier 2
 England,Wiltshire,Swindon,222193,Tier 2
@@ -331,13 +331,13 @@ England,Essex,Tendring,146561,Tier 2
 England,Hampshire,Test Valley,126160,Tier 2
 England,Gloucestershire,Tewkesbury,95019,Tier 2
 England,Kent,Thanet,141922,Tier 3
-England,Hertfordshire,Three Rivers,93323,Tier 2
-England,Essex,Thurrock,174341,Tier 2
+England,Hertfordshire,Three Rivers,93323,Tier 3
+England,Essex,Thurrock,174341,Tier 3
 England,Kent,Tonbridge and Malling,132153,Tier 3
 England,Devon,Torbay,136264,Tier 2
 Wales,Wales,Torfaen,93961,Tier 2
 England,Devon,Torridge,68267,Tier 2
-England,Inner London,Tower Hamlets,324745,Tier 2
+England,Inner London,Tower Hamlets,324745,Tier 3
 England,Greater Manchester,Trafford,237354,Tier 3
 England,Kent,Tunbridge Wells,118724,Tier 3
 England,Essex,Uttlesford,91284,Tier 2
@@ -345,11 +345,11 @@ Wales,Wales,Vale of Glamorgan,133587,Tier 2
 England,Oxfordshire,Vale of White Horse,136007,Tier 2
 England,West Yorkshire,Wakefield,348312,Tier 3
 England,West Midlands,Walsall,285478,Tier 3
-England,Outer London,Waltham Forest,276983,Tier 2
-England,Inner London,Wandsworth,329677,Tier 2
+England,Outer London,Waltham Forest,276983,Tier 3
+England,Inner London,Wandsworth,329677,Tier 3
 England,Cheshire,Warrington,210014,Tier 2
 England,Warwickshire,Warwick,143753,Tier 2
-England,Hertfordshire,Watford,96577,Tier 2
+England,Hertfordshire,Watford,96577,Tier 3
 England,Surrey,Waverley,126328,Tier 2
 England,East Sussex,Wealden,161475,Tier 2
 England,Northamptonshire,Wellingborough,79707,Tier 2
@@ -362,7 +362,7 @@ England,Lincolnshire,West Lindsey,95667,Tier 3
 Scotland,Scotland,West Lothian,183100,Tier 4
 England,Oxfordshire,West Oxfordshire,110643,Tier 2
 England,Suffolk,West Suffolk,179045,Tier 2
-England,Inner London,Westminster,261317,Tier 2
+England,Inner London,Westminster,261317,Tier 3
 England,Greater Manchester,Wigan,328662,Tier 3
 England,Wiltshire,Wiltshire,500024,Tier 2
 England,Hampshire,Winchester,124859,Tier 2
