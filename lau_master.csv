@@ -1,6 +1,6 @@
 nation,county,lau_name,pop,status
-Scotland,Scotland,Aberdeen City,228670,Tier 2
-Scotland,Scotland,Aberdeenshire,261210,Tier 2
+Scotland,Scotland,Aberdeen City,228670,Tier 3
+Scotland,Scotland,Aberdeenshire,261210,Tier 3
 England,West Sussex,Adur,64301,Tier 2
 England,Cumbria,Allerdale,97761,Tier 2
 England,Derbyshire,Amber Valley,128147,Tier 3
@@ -108,7 +108,7 @@ Scotland,Scotland,East Dunbartonshire,108640,Tier 4
 England,Hampshire,East Hampshire,122308,Tier 2
 England,Hertfordshire,East Hertfordshire,149748,Tier 2
 England,Lincolnshire,East Lindsey,141727,Tier 3
-Scotland,Scotland,East Lothian,107090,Tier 2
+Scotland,Scotland,East Lothian,107090,Tier 3
 England,Northamptonshire,East Northamptonshire,94527,Tier 2
 Scotland,Scotland,East Renfrewshire,95530,Tier 4
 England,East Yorkshire,East Riding of Yorkshire,341173,Tier 3
