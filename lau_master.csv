@@ -4,7 +4,7 @@ Scotland,Scotland,Aberdeenshire,261210,Tier 3
 England,West Sussex,Adur,64301,Tier 2
 England,Cumbria,Allerdale,97761,Tier 2
 England,Derbyshire,Amber Valley,128147,Tier 3
-Scotland,Scotland,Angus,116200,Tier 3
+Scotland,Scotland,Angus,116200,Tier 2
 Northern Ireland,Northern Ireland,Antrim and Newtownabbey,143504,Tier 3
 Northern Ireland,Northern Ireland,Ards and North Down,161725,Tier 3
 Scotland,Scotland,Argyll and Bute,85870,Tier 2
@@ -98,19 +98,19 @@ England,South Yorkshire,Doncaster,311890,Tier 3
 England,Dorset,Dorset,378508,Tier 2
 England,Kent,Dover,118131,Tier 3
 England,West Midlands,Dudley,321596,Tier 3
-Scotland,Scotland,Dumfries and Galloway,148860,Tier 2
+Scotland,Scotland,Dumfries and Galloway,148860,Tier 1
 Scotland,Scotland,Dundee City,149320,Tier 3
 England,Outer London,Ealing,341806,Tier 3
-Scotland,Scotland,East Ayrshire,122010,Tier 4
+Scotland,Scotland,East Ayrshire,122010,Tier 3
 England,Cambridgeshire,East Cambridgeshire,89840,Tier 2
 England,Devon,East Devon,146284,Tier 2
-Scotland,Scotland,East Dunbartonshire,108640,Tier 4
+Scotland,Scotland,East Dunbartonshire,108640,Tier 3
 England,Hampshire,East Hampshire,122308,Tier 2
 England,Hertfordshire,East Hertfordshire,149748,Tier 2
 England,Lincolnshire,East Lindsey,141727,Tier 3
 Scotland,Scotland,East Lothian,107090,Tier 3
 England,Northamptonshire,East Northamptonshire,94527,Tier 2
-Scotland,Scotland,East Renfrewshire,95530,Tier 4
+Scotland,Scotland,East Renfrewshire,95530,Tier 3
 England,East Yorkshire,East Riding of Yorkshire,341173,Tier 3
 England,Staffordshire,East Staffordshire,119754,Tier 3
 England,Suffolk,East Suffolk,249461,Tier 2
@@ -123,7 +123,7 @@ England,Essex,Epping Forest,131689,Tier 3
 England,Surrey,Epsom and Ewell,80627,Tier 2
 England,Derbyshire,Erewash,115371,Tier 3
 England,Devon,Exeter,131405,Tier 2
-Scotland,Scotland,Falkirk,160890,Tier 3
+Scotland,Scotland,Falkirk,160890,Tier 2
 England,Hampshire,Fareham,116233,Tier 2
 England,Cambridgeshire,Fenland,101850,Tier 2
 Northern Ireland,Northern Ireland,Fermanagh and Omagh,117397,Tier 3
@@ -134,7 +134,7 @@ England,Gloucestershire,Forest of Dean,86791,Tier 2
 England,Lancashire,Fylde,80780,Tier 3
 England,Tyne and Wear,Gateshead,202055,Tier 3
 England,Nottinghamshire,Gedling,117896,Tier 3
-Scotland,Scotland,Glasgow City,633120,Tier 4
+Scotland,Scotland,Glasgow City,633120,Tier 3
 England,Gloucestershire,Gloucester,129128,Tier 2
 England,Hampshire,Gosport,84838,Tier 2
 England,Kent,Gravesham,106939,Tier 3
@@ -166,7 +166,7 @@ England,West Sussex,Horsham,143791,Tier 2
 England,Outer London,Hounslow,271523,Tier 3
 England,Cambridgeshire,Huntingdonshire,177963,Tier 2
 England,Lancashire,Hyndburn,81043,Tier 3
-Scotland,Scotland,Inverclyde,77800,Tier 3
+Scotland,Scotland,Inverclyde,77800,Tier 2
 England,Suffolk,Ipswich,136913,Tier 2
 Wales,Wales,Isle of Anglesey,70043,Tier 2
 England,Hampshire,Isle of Wight,141771,Tier 1
@@ -206,7 +206,7 @@ England,Suffolk,Mid Suffolk,103895,Tier 2
 England,West Sussex,Mid Sussex,151022,Tier 2
 Northern Ireland,Northern Ireland,Mid Ulster,148528,Tier 3
 England,North Yorkshire,Middlesbrough,140980,Tier 3
-Scotland,Scotland,Midlothian,92460,Tier 2
+Scotland,Scotland,Midlothian,92460,Tier 3
 England,Bedfordshire,Milton Keynes,269457,Tier 2
 England,Surrey,Mole Valley,87245,Tier 2
 Wales,Wales,Monmouthshire,94590,Tier 2
@@ -226,7 +226,7 @@ England,Derbyshire,North East Derbyshire,101462,Tier 3
 England,Lincolnshire,North East Lincolnshire,159563,Tier 3
 England,Hertfordshire,North Hertfordshire,133570,Tier 2
 England,Lincolnshire,North Kesteven,116915,Tier 3
-Scotland,Scotland,North Lanarkshire,341370,Tier 4
+Scotland,Scotland,North Lanarkshire,341370,Tier 3
 England,Lincolnshire,North Lincolnshire,172292,Tier 3
 England,Norfolk,North Norfolk,104837,Tier 2
 England,Somerset,North Somerset,215052,Tier 3
@@ -255,7 +255,7 @@ England,Outer London,Redbridge,305222,Tier 3
 England,North Yorkshire,Redcar and Cleveland,137150,Tier 3
 England,Worcestershire,Redditch,85261,Tier 2
 England,Surrey,Reigate and Banstead,148748,Tier 2
-Scotland,Scotland,Renfrewshire,179100,Tier 4
+Scotland,Scotland,Renfrewshire,179100,Tier 3
 Wales,Wales,Rhondda Cynon Taf,241264,Tier 2
 England,Lancashire,Ribble Valley,60888,Tier 3
 England,Outer London,Richmond upon Thames,198019,Tier 3
@@ -274,7 +274,7 @@ England,North Yorkshire,Ryedale,55380,Tier 2
 England,Greater Manchester,Salford,258834,Tier 3
 England,West Midlands,Sandwell,328450,Tier 3
 England,North Yorkshire,Scarborough,108757,Tier 2
-Scotland,Scotland,Scottish Borders,115510,Tier 2
+Scotland,Scotland,Scottish Borders,115510,Tier 1
 England,Somerset,Sedgemoor,123178,Tier 2
 England,Merseyside,Sefton,276410,Tier 2
 England,North Yorkshire,Selby,90620,Tier 2
@@ -285,7 +285,7 @@ England,Shropshire,Shropshire,323136,Tier 2
 England,Berkshire,Slough,149539,Tier 3
 England,West Midlands,Solihull,216374,Tier 3
 England,Somerset,Somerset West and Taunton,155115,Tier 2
-Scotland,Scotland,South Ayrshire,112610,Tier 4
+Scotland,Scotland,South Ayrshire,112610,Tier 3
 England,Cambridgeshire,South Cambridgeshire,159086,Tier 2
 England,Derbyshire,South Derbyshire,107261,Tier 3
 England,Gloucestershire,South Gloucestershire,285093,Tier 3
@@ -293,7 +293,7 @@ England,Devon,South Hams,87004,Tier 2
 England,Lincolnshire,South Holland,95019,Tier 3
 England,Lincolnshire,South Kesteven,142424,Tier 3
 England,Cumbria,South Lakeland,105088,Tier 2
-Scotland,Scotland,South Lanarkshire,320530,Tier 4
+Scotland,Scotland,South Lanarkshire,320530,Tier 3
 England,Norfolk,South Norfolk,140880,Tier 2
 England,Northamptonshire,South Northamptonshire,94490,Tier 2
 England,Oxfordshire,South Oxfordshire,142057,Tier 2
@@ -310,7 +310,7 @@ England,Merseyside,St. Helens,180585,Tier 2
 England,Staffordshire,Stafford,137280,Tier 3
 England,Staffordshire,Staffordshire Moorlands,98435,Tier 3
 England,Hertfordshire,Stevenage,87845,Tier 2
-Scotland,Scotland,Stirling,94210,Tier 4
+Scotland,Scotland,Stirling,94210,Tier 3
 England,Greater Manchester,Stockport,293423,Tier 3
 England,Durham,Stockton-on-Tees,197348,Tier 3
 England,Staffordshire,Stoke-on-Trent,256375,Tier 3
@@ -356,10 +356,10 @@ England,Northamptonshire,Wellingborough,79707,Tier 2
 England,Hertfordshire,Welwyn Hatfield,123043,Tier 2
 England,Berkshire,West Berkshire,158450,Tier 2
 England,Devon,West Devon,55796,Tier 2
-Scotland,Scotland,West Dunbartonshire,88930,Tier 4
+Scotland,Scotland,West Dunbartonshire,88930,Tier 3
 England,Lancashire,West Lancashire,114306,Tier 3
 England,Lincolnshire,West Lindsey,95667,Tier 3
-Scotland,Scotland,West Lothian,183100,Tier 4
+Scotland,Scotland,West Lothian,183100,Tier 3
 England,Oxfordshire,West Oxfordshire,110643,Tier 2
 England,Suffolk,West Suffolk,179045,Tier 2
 England,Inner London,Westminster,261317,Tier 3
