@@ -19,7 +19,7 @@ England,Cambridgeshire,South Cambridgeshire,159086,Tier 4
 England,Cheshire,Cheshire East,384152,Tier 4
 England,Cheshire,Cheshire West and Chester,343071,Tier 4
 England,Cheshire,Warrington,210014,Tier 4
-England,Cornwall,Cornwall,569578,Tier 3
+England,Cornwall,Cornwall,569578,Tier 4
 England,Cornwall,Isles of Scilly,2224,Tier 1
 England,Cumbria,Allerdale,97761,Tier 4
 England,Cumbria,Barrow-in-Furness,67049,Tier 4
@@ -36,18 +36,18 @@ England,Derbyshire,Erewash,115371,Tier 4
 England,Derbyshire,High Peak,92666,Tier 4
 England,Derbyshire,North East Derbyshire,101462,Tier 4
 England,Derbyshire,South Derbyshire,107261,Tier 4
-England,Devon,East Devon,146284,Tier 3
-England,Devon,Exeter,131405,Tier 3
-England,Devon,Mid Devon,82311,Tier 3
-England,Devon,North Devon,97145,Tier 3
-England,Devon,Plymouth,262100,Tier 3
-England,Devon,South Hams,87004,Tier 3
-England,Devon,Teignbridge,134163,Tier 3
-England,Devon,Torbay,136264,Tier 3
-England,Devon,Torridge,68267,Tier 3
-England,Devon,West Devon,55796,Tier 3
+England,Devon,East Devon,146284,Tier 4
+England,Devon,Exeter,131405,Tier 4
+England,Devon,Mid Devon,82311,Tier 4
+England,Devon,North Devon,97145,Tier 4
+England,Devon,Plymouth,262100,Tier 4
+England,Devon,South Hams,87004,Tier 4
+England,Devon,Teignbridge,134163,Tier 4
+England,Devon,Torbay,136264,Tier 4
+England,Devon,Torridge,68267,Tier 4
+England,Devon,West Devon,55796,Tier 4
 England,Dorset,"Bournemouth, Christchurch and Poole",395331,Tier 4
-England,Dorset,Dorset,378508,Tier 3
+England,Dorset,Dorset,378508,Tier 4
 England,Durham,County Durham,530094,Tier 4
 England,Durham,Darlington,106803,Tier 4
 England,Durham,Hartlepool,93663,Tier 4
@@ -57,8 +57,8 @@ England,East Sussex,Hastings,92661,Tier 4
 England,East Sussex,Lewes,103268,Tier 4
 England,East Sussex,Rother,96080,Tier 4
 England,East Sussex,Wealden,161475,Tier 4
-England,East Yorkshire,East Riding of Yorkshire,341173,Tier 3
-England,East Yorkshire,"Kingston upon Hull, City of",259778,Tier 3
+England,East Yorkshire,East Riding of Yorkshire,341173,Tier 4
+England,East Yorkshire,"Kingston upon Hull, City of",259778,Tier 4
 England,Essex,Basildon,187199,Tier 4
 England,Essex,Braintree,152604,Tier 4
 England,Essex,Brentwood,77021,Tier 4
@@ -97,14 +97,14 @@ England,Hampshire,Fareham,116233,Tier 4
 England,Hampshire,Gosport,84838,Tier 4
 England,Hampshire,Hart,97073,Tier 4
 England,Hampshire,Havant,126220,Tier 4
-England,Hampshire,Isle of Wight,141771,Tier 3
-England,Hampshire,New Forest,180086,Tier 3
+England,Hampshire,Isle of Wight,141771,Tier 4
+England,Hampshire,New Forest,180086,Tier 4
 England,Hampshire,Portsmouth,214905,Tier 4
 England,Hampshire,Rushmoor,94599,Tier 4
 England,Hampshire,Southampton,252520,Tier 4
 England,Hampshire,Test Valley,126160,Tier 4
 England,Hampshire,Winchester,124859,Tier 4
-England,Herefordshire,"Herefordshire, County of",192801,Tier 3
+England,Herefordshire,"Herefordshire, County of",192801,Tier 4
 England,Hertfordshire,Broxbourne,97279,Tier 4
 England,Hertfordshire,Dacorum,154763,Tier 4
 England,Hertfordshire,East Hertfordshire,149748,Tier 4
@@ -173,12 +173,12 @@ England,Lincolnshire,North Lincolnshire,172292,Tier 4
 England,Lincolnshire,South Holland,95019,Tier 4
 England,Lincolnshire,South Kesteven,142424,Tier 4
 England,Lincolnshire,West Lindsey,95667,Tier 4
-England,Merseyside,Halton,129410,Tier 3
-England,Merseyside,Knowsley,150862,Tier 3
-England,Merseyside,Liverpool,498042,Tier 3
-England,Merseyside,Sefton,276410,Tier 3
-England,Merseyside,St. Helens,180585,Tier 3
-England,Merseyside,Wirral,324011,Tier 3
+England,Merseyside,Halton,129410,Tier 4
+England,Merseyside,Knowsley,150862,Tier 4
+England,Merseyside,Liverpool,498042,Tier 4
+England,Merseyside,Sefton,276410,Tier 4
+England,Merseyside,St. Helens,180585,Tier 4
+England,Merseyside,Wirral,324011,Tier 4
 England,Norfolk,Breckland,139968,Tier 4
 England,Norfolk,Broadland,130783,Tier 4
 England,Norfolk,Great Yarmouth,99336,Tier 4
@@ -186,16 +186,16 @@ England,Norfolk,King's Lynn and West Norfolk,151383,Tier 4
 England,Norfolk,North Norfolk,104837,Tier 4
 England,Norfolk,Norwich,140573,Tier 4
 England,Norfolk,South Norfolk,140880,Tier 4
-England,North Yorkshire,Craven,57142,Tier 3
-England,North Yorkshire,Hambleton,91594,Tier 3
-England,North Yorkshire,Harrogate,160831,Tier 3
-England,North Yorkshire,Middlesbrough,140980,Tier 3
-England,North Yorkshire,Redcar and Cleveland,137150,Tier 3
-England,North Yorkshire,Richmondshire,53730,Tier 3
-England,North Yorkshire,Ryedale,55380,Tier 3
-England,North Yorkshire,Scarborough,108757,Tier 3
-England,North Yorkshire,Selby,90620,Tier 3
-England,North Yorkshire,York,210618,Tier 3
+England,North Yorkshire,Craven,57142,Tier 4
+England,North Yorkshire,Hambleton,91594,Tier 4
+England,North Yorkshire,Harrogate,160831,Tier 4
+England,North Yorkshire,Middlesbrough,140980,Tier 4
+England,North Yorkshire,Redcar and Cleveland,137150,Tier 4
+England,North Yorkshire,Richmondshire,53730,Tier 4
+England,North Yorkshire,Ryedale,55380,Tier 4
+England,North Yorkshire,Scarborough,108757,Tier 4
+England,North Yorkshire,Selby,90620,Tier 4
+England,North Yorkshire,York,210618,Tier 4
 England,Northamptonshire,Corby,72218,Tier 4
 England,Northamptonshire,Daventry,85950,Tier 4
 England,Northamptonshire,East Northamptonshire,94527,Tier 4
@@ -236,20 +236,20 @@ England,Oxfordshire,Oxford,152457,Tier 4
 England,Oxfordshire,South Oxfordshire,142057,Tier 4
 England,Oxfordshire,Vale of White Horse,136007,Tier 4
 England,Oxfordshire,West Oxfordshire,110643,Tier 4
-England,Rutland,Rutland,39927,Tier 3
-England,Shropshire,Shropshire,323136,Tier 3
-England,Shropshire,Telford and Wrekin,179854,Tier 3
-England,Somerset,Bath and North East Somerset,193282,Tier 3
-England,Somerset,Bristol,463377,Tier 3
-England,Somerset,Mendip,115587,Tier 3
-England,Somerset,North Somerset,215052,Tier 3
-England,Somerset,Sedgemoor,123178,Tier 3
-England,Somerset,Somerset West and Taunton,155115,Tier 3
-England,Somerset,South Somerset,168345,Tier 3
-England,South Yorkshire,Barnsley,246866,Tier 3
-England,South Yorkshire,Doncaster,311890,Tier 3
-England,South Yorkshire,Rotherham,265411,Tier 3
-England,South Yorkshire,Sheffield,584853,Tier 3
+England,Rutland,Rutland,39927,Tier 4
+England,Shropshire,Shropshire,323136,Tier 4
+England,Shropshire,Telford and Wrekin,179854,Tier 4
+England,Somerset,Bath and North East Somerset,193282,Tier 4
+England,Somerset,Bristol,463377,Tier 4
+England,Somerset,Mendip,115587,Tier 4
+England,Somerset,North Somerset,215052,Tier 4
+England,Somerset,Sedgemoor,123178,Tier 4
+England,Somerset,Somerset West and Taunton,155115,Tier 4
+England,Somerset,South Somerset,168345,Tier 4
+England,South Yorkshire,Barnsley,246866,Tier 4
+England,South Yorkshire,Doncaster,311890,Tier 4
+England,South Yorkshire,Rotherham,265411,Tier 4
+England,South Yorkshire,Sheffield,584853,Tier 4
 England,Staffordshire,Cannock Chase,100762,Tier 4
 England,Staffordshire,East Staffordshire,119754,Tier 4
 England,Staffordshire,Lichfield,104756,Tier 4
@@ -300,62 +300,62 @@ England,West Sussex,Crawley,112409,Tier 4
 England,West Sussex,Horsham,143791,Tier 4
 England,West Sussex,Mid Sussex,151022,Tier 4
 England,West Sussex,Worthing,110570,Tier 4
-England,West Yorkshire,Bradford,539776,Tier 3
-England,West Yorkshire,Calderdale,211455,Tier 3
-England,West Yorkshire,Kirklees,439787,Tier 3
-England,West Yorkshire,Leeds,793139,Tier 3
-England,West Yorkshire,Wakefield,348312,Tier 3
-England,Wiltshire,Swindon,222193,Tier 3
-England,Wiltshire,Wiltshire,500024,Tier 3
-England,Worcestershire,Bromsgrove,99881,Tier 3
-England,Worcestershire,Malvern Hills,78698,Tier 3
-England,Worcestershire,Redditch,85261,Tier 3
-England,Worcestershire,Worcester,101222,Tier 3
-England,Worcestershire,Wychavon,129433,Tier 3
-England,Worcestershire,Wyre Forest,101291,Tier 3
-Northern Ireland,Northern Ireland,Antrim and Newtownabbey,143504,Tier 3
-Northern Ireland,Northern Ireland,Ards and North Down,161725,Tier 3
-Northern Ireland,Northern Ireland,"Armagh City, Banbridge and Craigavon",216205,Tier 3
-Northern Ireland,Northern Ireland,Belfast,343542,Tier 3
-Northern Ireland,Northern Ireland,Causeway Coast and Glens,144838,Tier 3
-Northern Ireland,Northern Ireland,Derry City and Strabane,151284,Tier 3
-Northern Ireland,Northern Ireland,Fermanagh and Omagh,117397,Tier 3
-Northern Ireland,Northern Ireland,Lisburn and Castlereagh,146002,Tier 3
-Northern Ireland,Northern Ireland,Mid and East Antrim,139274,Tier 3
-Northern Ireland,Northern Ireland,Mid Ulster,148528,Tier 3
-Northern Ireland,Northern Ireland,"Newry, Mourne and Down",181368,Tier 3
-Scotland,Scotland,Aberdeen City,228670,Tier 3
-Scotland,Scotland,Aberdeenshire,261210,Tier 3
+England,West Yorkshire,Bradford,539776,Tier 4
+England,West Yorkshire,Calderdale,211455,Tier 4
+England,West Yorkshire,Kirklees,439787,Tier 4
+England,West Yorkshire,Leeds,793139,Tier 4
+England,West Yorkshire,Wakefield,348312,Tier 4
+England,Wiltshire,Swindon,222193,Tier 4
+England,Wiltshire,Wiltshire,500024,Tier 4
+England,Worcestershire,Bromsgrove,99881,Tier 4
+England,Worcestershire,Malvern Hills,78698,Tier 4
+England,Worcestershire,Redditch,85261,Tier 4
+England,Worcestershire,Worcester,101222,Tier 4
+England,Worcestershire,Wychavon,129433,Tier 4
+England,Worcestershire,Wyre Forest,101291,Tier 4
+Northern Ireland,Northern Ireland,Antrim and Newtownabbey,143504,Tier 4
+Northern Ireland,Northern Ireland,Ards and North Down,161725,Tier 4
+Northern Ireland,Northern Ireland,"Armagh City, Banbridge and Craigavon",216205,Tier 4
+Northern Ireland,Northern Ireland,Belfast,343542,Tier 4
+Northern Ireland,Northern Ireland,Causeway Coast and Glens,144838,Tier 4
+Northern Ireland,Northern Ireland,Derry City and Strabane,151284,Tier 4
+Northern Ireland,Northern Ireland,Fermanagh and Omagh,117397,Tier 4
+Northern Ireland,Northern Ireland,Lisburn and Castlereagh,146002,Tier 4
+Northern Ireland,Northern Ireland,Mid and East Antrim,139274,Tier 4
+Northern Ireland,Northern Ireland,Mid Ulster,148528,Tier 4
+Northern Ireland,Northern Ireland,"Newry, Mourne and Down",181368,Tier 4
+Scotland,Scotland,Aberdeen City,228670,Tier 4
+Scotland,Scotland,Aberdeenshire,261210,Tier 4
 Scotland,Scotland,Angus,116200,Tier 4
 Scotland,Scotland,Argyll and Bute,85870,Tier 4
-Scotland,Scotland,City of Edinburgh,524930,Tier 3
-Scotland,Scotland,Clackmannanshire,51540,Tier 3
+Scotland,Scotland,City of Edinburgh,524930,Tier 4
+Scotland,Scotland,Clackmannanshire,51540,Tier 4
 Scotland,Scotland,Dumfries and Galloway,148860,Tier 4
-Scotland,Scotland,Dundee City,149320,Tier 3
-Scotland,Scotland,East Ayrshire,122010,Tier 3
-Scotland,Scotland,East Dunbartonshire,108640,Tier 3
-Scotland,Scotland,East Lothian,107090,Tier 3
-Scotland,Scotland,East Renfrewshire,95530,Tier 3
+Scotland,Scotland,Dundee City,149320,Tier 4
+Scotland,Scotland,East Ayrshire,122010,Tier 4
+Scotland,Scotland,East Dunbartonshire,108640,Tier 4
+Scotland,Scotland,East Lothian,107090,Tier 4
+Scotland,Scotland,East Renfrewshire,95530,Tier 4
 Scotland,Scotland,Falkirk,160890,Tier 4
-Scotland,Scotland,Fife,373550,Tier 3
-Scotland,Scotland,Glasgow City,633120,Tier 3
+Scotland,Scotland,Fife,373550,Tier 4
+Scotland,Scotland,Glasgow City,633120,Tier 4
 Scotland,Scotland,Highland,235830,Tier 4
 Scotland,Scotland,Inverclyde,77800,Tier 4
-Scotland,Scotland,Midlothian,92460,Tier 3
+Scotland,Scotland,Midlothian,92460,Tier 4
 Scotland,Scotland,Moray,95820,Tier 4
-Scotland,Scotland,Na h-Eileanan Siar,26720,Tier 3
-Scotland,Scotland,North Ayrshire,134740,Tier 3
-Scotland,Scotland,North Lanarkshire,341370,Tier 3
-Scotland,Scotland,Orkney Islands,22270,Tier 3
-Scotland,Scotland,Perth and Kinross,151950,Tier 3
-Scotland,Scotland,Renfrewshire,179100,Tier 3
+Scotland,Scotland,Na h-Eileanan Siar,26720,Tier 4
+Scotland,Scotland,North Ayrshire,134740,Tier 4
+Scotland,Scotland,North Lanarkshire,341370,Tier 4
+Scotland,Scotland,Orkney Islands,22270,Tier 4
+Scotland,Scotland,Perth and Kinross,151950,Tier 4
+Scotland,Scotland,Renfrewshire,179100,Tier 4
 Scotland,Scotland,Scottish Borders,115510,Tier 4
-Scotland,Scotland,Shetland Islands,22920,Tier 3
-Scotland,Scotland,South Ayrshire,112610,Tier 3
-Scotland,Scotland,South Lanarkshire,320530,Tier 3
-Scotland,Scotland,Stirling,94210,Tier 3
-Scotland,Scotland,West Dunbartonshire,88930,Tier 3
-Scotland,Scotland,West Lothian,183100,Tier 3
+Scotland,Scotland,Shetland Islands,22920,Tier 4
+Scotland,Scotland,South Ayrshire,112610,Tier 4
+Scotland,Scotland,South Lanarkshire,320530,Tier 4
+Scotland,Scotland,Stirling,94210,Tier 4
+Scotland,Scotland,West Dunbartonshire,88930,Tier 4
+Scotland,Scotland,West Lothian,183100,Tier 4
 Wales,Wales,Blaenau Gwent,69862,Tier 4
 Wales,Wales,Bridgend,147049,Tier 4
 Wales,Wales,Caerphilly,181075,Tier 4
